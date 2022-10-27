@@ -1,0 +1,37 @@
+@import url('./fonts.css');
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-moz-selection {
+  color: white;
+  background: #C696FC;
+}
+
+::selection {
+  background: #C696FC;
+}
+
+text {
+  font-family: Outfit, 'DM Sans';
+}
+
+#MusicPreview, #RacetrackPreview {
+  cursor: pointer;
+}
+
+.preview-hover {
+  opacity: 0.65;
+  transition: opacity 0.25s ease;
+}
+
+.preview-hover:hover {
+  opacity: 1;
+  transition: opacity 0.25s ease;
+}
+
+.preview-hover:hover > text {
+  fill: red;
+}

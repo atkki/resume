@@ -1,0 +1,101 @@
+@import url('./fonts.css');
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  font-family: Outfit, 'DM Sans';
+}
+
+h1, h2, h3, h4, h5, span {  font-family: Outfit, 'DM Sans'; }
+
+html {
+  height: 100%;
+}
+
+body {
+  width: 100vw !important;
+  height: 100vh !important;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.container {
+  transform: scale(0.7);
+  transform-origin: 50% 0%;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  min-height: auto;
+
+  box-shadow: 0px 0px 5vw 1vw #9151f734;
+}
+
+.aside {
+  display: flex;
+  width: 25vw;
+
+  background: #F7F9FC;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+
+  background: #FFFFFF;
+}
+
+.content object {
+  width: 75vw;
+}
+
+@media only screen and (max-width: 1000px) {
+  .container {
+    flex-direction: column;
+    transform: none;
+  }
+
+  .aside {
+    min-width: 100vw;
+  }
+  
+  .aside object {
+    width: 100%;
+  }
+
+  .content {
+    min-width: 100vw;
+  }
+
+  .content object {
+    width: 100%;
+  }
+}
+
+.audio-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.audio {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5vw;
+}
+
+.audio audio {
+  width: 100%;
+}
+
+body.swal2-shown > [aria-hidden="true"] {
+  transition: 0.1s filter;
+  filter: blur(10px);
+}
