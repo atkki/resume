@@ -1,258 +1,264 @@
-<svg width="360" height="733" viewBox="0 0 360 733" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="387" height="745" viewBox="0 0 387 745" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="Aside">
-<rect width="360" height="732.562" fill="#F7F9FC"/>
+<rect width="387" height="744.949" fill="#F7F9FC"/>
 <g id="Aside_2">
-<rect width="209" height="732.562" transform="translate(75.5)" fill="#F7F9FC"/>
+<rect width="209" height="744.949" transform="translate(89)" fill="#F7F9FC"/>
 <g id="Main">
 <g id="Container">
 <g id="Header">
 <g id="Header_2">
 <g id="Text">
-<text id="Name" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="20" font-weight="bold" letter-spacing="-0.03em"><tspan x="96.4773" y="37.4">Krzysztof Piskorski</tspan></text>
-<text id="Age: 22" fill="#ACB1C3" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="164" y="50.33">Age: 22</tspan></text>
+<text id="Name" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="20" font-weight="bold" letter-spacing="-0.03em"><tspan x="109.977" y="37.4">Krzysztof Piskorski</tspan></text>
+<text id="Age: 22" fill="#ACB1C3" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="177.5" y="50.33">Age: 22</tspan></text>
 </g>
 </g>
 </g>
 <g id="Divider" clip-path="url(#clip0_374_11599)">
-<rect id="divider" x="95.6491" y="66.1491" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider" x="109.149" y="66.1491" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Infos">
-<g id="Row">
+<g id="EmailRow">
 <g id="Featured icon">
 <g clip-path="url(#clip1_374_11599)">
-<rect id="Rectangle" x="95.5" y="79.5966" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
+<rect id="Rectangle" x="109" y="79.5966" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
 <g id="basic/mail">
-<path id="Icon" d="M109.023 93.1193H101.068C100.519 93.1193 100.074 92.6741 100.074 92.125V86.1158C100.097 85.5836 100.535 85.1642 101.068 85.1647H109.023C109.572 85.1647 110.017 85.6099 110.017 86.1591V92.125C110.017 92.6741 109.572 93.1193 109.023 93.1193ZM101.068 87.0877V92.125H109.023V87.0877L105.045 89.7386L101.068 87.0877ZM101.466 86.1591L105.045 88.5454L108.625 86.1591H101.466Z" fill="#79819A"/>
+<path id="Icon" d="M122.523 93.1193H114.568C114.019 93.1193 113.574 92.6741 113.574 92.125V86.1158C113.597 85.5836 114.035 85.1642 114.568 85.1647H122.523C123.072 85.1647 123.517 85.6099 123.517 86.1591V92.125C123.517 92.6741 123.072 93.1193 122.523 93.1193ZM114.568 87.0877V92.125H122.523V87.0877L118.545 89.7386L114.568 87.0877ZM114.966 86.1591L118.545 88.5454L122.125 86.1591H114.966Z" fill="#79819A"/>
 </g>
 </g>
 </g>
 <g id="Text_2">
-<text id="Subtitle" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="124.136" y="86.1541">Email</tspan></text>
-<text id="Subtitle_2" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="124.136" y="97.7109">k.n.piskorski@gmail.com</tspan></text>
+<text id="Subtitle" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="137.636" y="86.1541">Email</tspan></text>
+<text id="Subtitle_2" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="137.636" y="97.7109">k.n.piskorski@gmail.com</tspan></text>
 </g>
 </g>
-<g id="Row_2">
+<g id="PhoneRow">
 <g id="Featured icon_2">
 <g clip-path="url(#clip2_374_11599)">
-<rect id="Rectangle_2" x="95.5" y="114.301" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
+<rect id="Rectangle_2" x="109" y="114.301" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
 <g id="basic/phone">
-<path id="Icon_2" d="M108.524 127.824C104.283 127.83 101.064 124.572 101.068 120.368C101.068 120.093 101.291 119.869 101.565 119.869H102.877C103.124 119.869 103.333 120.05 103.369 120.294C103.456 120.878 103.626 121.447 103.874 121.983L103.925 122.093C103.996 122.246 103.948 122.428 103.811 122.527C103.404 122.817 103.249 123.401 103.566 123.857C103.963 124.429 104.464 124.929 105.036 125.326C105.491 125.643 106.075 125.488 106.366 125.081C106.464 124.944 106.646 124.896 106.8 124.967L106.909 125.017C107.445 125.266 108.014 125.436 108.598 125.522C108.842 125.559 109.023 125.768 109.023 126.014V127.327C109.023 127.601 108.8 127.824 108.525 127.824L108.524 127.824Z" fill="#79819A"/>
+<path id="Icon_2" d="M122.024 127.824C117.783 127.83 114.564 124.572 114.568 120.368C114.568 120.093 114.791 119.869 115.065 119.869H116.377C116.624 119.869 116.833 120.05 116.869 120.294C116.956 120.878 117.126 121.447 117.374 121.983L117.425 122.093C117.496 122.246 117.448 122.428 117.311 122.527C116.904 122.817 116.749 123.401 117.066 123.857C117.463 124.429 117.964 124.929 118.536 125.326C118.991 125.643 119.575 125.488 119.866 125.081C119.964 124.944 120.146 124.896 120.3 124.967L120.409 125.017C120.945 125.266 121.514 125.436 122.098 125.522C122.342 125.559 122.523 125.768 122.523 126.014V127.327C122.523 127.601 122.3 127.824 122.025 127.824L122.024 127.824Z" fill="#79819A"/>
 </g>
 </g>
 </g>
 <g id="Text_3">
-<text id="Subtitle_3" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="124.136" y="120.859">Phone</tspan></text>
-<text id="Subtitle_4" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="124.136" y="132.415">+48666723089</tspan></text>
+<text id="Subtitle_3" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="137.636" y="120.859">Phone</tspan></text>
+<text id="Subtitle_4" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="137.636" y="132.415">+48666723089</tspan></text>
 </g>
 </g>
-<g id="Row_3">
+<g id="Row">
 <g id="Featured icon_3">
 <g clip-path="url(#clip3_374_11599)">
-<rect id="Rectangle_3" x="95.5" y="149.653" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
+<rect id="Rectangle_3" x="109" y="149.653" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
 <g id="basic/location">
-<path id="Icon_3" d="M105.045 163.673C104.417 163.138 103.835 162.55 103.305 161.918C102.51 160.968 101.565 159.553 101.565 158.204C101.565 156.796 102.413 155.526 103.714 154.988C105.015 154.449 106.512 154.747 107.507 155.743C108.162 156.395 108.528 157.281 108.526 158.204C108.526 159.553 107.581 160.968 106.785 161.918C106.255 162.55 105.673 163.138 105.045 163.673ZM105.045 156.713C104.513 156.713 104.02 156.997 103.754 157.459C103.487 157.92 103.487 158.489 103.754 158.95C104.02 159.412 104.513 159.696 105.045 159.696C105.869 159.696 106.537 159.028 106.537 158.204C106.537 157.381 105.869 156.713 105.045 156.713Z" fill="#79819A"/>
+<path id="Icon_3" d="M118.545 163.673C117.917 163.138 117.335 162.55 116.805 161.918C116.01 160.968 115.065 159.553 115.065 158.204C115.065 156.796 115.913 155.526 117.214 154.988C118.515 154.449 120.012 154.747 121.007 155.743C121.662 156.395 122.028 157.281 122.026 158.204C122.026 159.553 121.081 160.968 120.285 161.918C119.755 162.55 119.173 163.138 118.545 163.673ZM118.545 156.713C118.013 156.713 117.52 156.997 117.254 157.459C116.987 157.92 116.987 158.489 117.254 158.95C117.52 159.412 118.013 159.696 118.545 159.696C119.369 159.696 120.037 159.028 120.037 158.204C120.037 157.381 119.369 156.713 118.545 156.713Z" fill="#79819A"/>
 </g>
 </g>
 </g>
 <g id="Text_4">
-<text id="Subtitle_5" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="124.136" y="155.563">Address</tspan></text>
-<text id="Subtitle_6" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="124.136" y="167.12">Wroc&#x142;aw, Kr&#xf3;lewiecka</tspan></text>
+<text id="Subtitle_5" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="137.636" y="155.563">Address</tspan></text>
+<text id="Subtitle_6" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="137.636" y="167.12">Wroc&#x142;aw, Kr&#xf3;lewiecka</tspan></text>
 </g>
 </g>
-<g id="Row_4">
+<g id="Row_2">
 <g id="Featured icon_4">
 <g clip-path="url(#clip4_374_11599)">
-<rect id="Rectangle_4" x="95.5" y="191.466" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
+<rect id="Rectangle_4" x="109" y="191.466" width="19.0909" height="19.0909" rx="9.54545" fill="#E2E6EE"/>
 <g id="basic/location_2" clip-path="url(#clip5_374_11599)">
-<path id="Vector" d="M105.045 196.239L99.0795 199.42L101.249 200.576V203.758L105.045 205.784L108.842 203.758V200.576L109.927 199.998V203.663H111.011V199.42L105.045 196.239ZM108.744 199.42L105.045 201.393L101.347 199.42L105.045 197.448L108.744 199.42ZM107.757 203.127L105.045 204.575L102.334 203.127V201.155L105.045 202.602L107.757 201.155V203.127Z" fill="#79819A"/>
+<path id="Vector" d="M118.545 196.239L112.579 199.42L114.749 200.576V203.758L118.545 205.784L122.342 203.758V200.576L123.427 199.998V203.663H124.511V199.42L118.545 196.239ZM122.244 199.42L118.545 201.393L114.847 199.42L118.545 197.448L122.244 199.42ZM121.257 203.127L118.545 204.575L115.834 203.127V201.155L118.545 202.602L121.257 201.155V203.127Z" fill="#79819A"/>
 </g>
 </g>
 </g>
 <g id="Text_5">
-<text id="Subtitle_7" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="124.136" y="190.268">Education</tspan></text>
+<text id="Subtitle_7" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="137.636" y="190.268">Education</tspan></text>
 <g id="Frame 1">
-<text id="Subtitle_8" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="124.136" y="201.825">IT technician</tspan></text>
-<text id="Subtitle_9" fill="#95AAFB" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7" letter-spacing="0.01em"><tspan x="124.136" y="210.984">ZSE Gniezno</tspan></text>
+<text id="Subtitle_8" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="137.636" y="201.825">IT technician</tspan></text>
+<text id="Subtitle_9" fill="#95AAFB" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7" letter-spacing="0.01em"><tspan x="137.636" y="210.984">ZSE Gniezno</tspan></text>
 </g>
 </g>
 </g>
 </g>
 <g id="Divider_2" clip-path="url(#clip6_374_11599)">
-<rect id="divider_2" x="95.6491" y="231.462" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_2" x="109.149" y="231.462" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Socials">
-<text id="Subtitle_10" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="95.5" y="251.467">Socials</tspan></text>
-<g id="Row_5">
+<text id="Subtitle_10" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="109" y="251.467">Socials</tspan></text>
+<g id="GithubRow">
 <g id="Social icon">
 <g clip-path="url(#clip7_374_11599)">
-<rect x="95.5" y="267.875" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="109" y="267.875" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 <g id="GitHub">
-<path id="Vector_2" d="M103.952 266.98C99.3778 267.477 95.6989 271.156 95.2017 275.631C94.7045 280.304 97.3892 284.48 101.466 286.071C101.764 286.17 102.063 285.972 102.063 285.574V283.983C102.063 283.983 101.665 284.082 101.168 284.082C99.7756 284.082 99.179 282.889 99.0795 282.193C98.9801 281.795 98.7813 281.497 98.483 281.199C98.1847 281.099 98.0852 281.099 98.0852 281C98.0852 280.801 98.3835 280.801 98.483 280.801C99.0795 280.801 99.5767 281.497 99.7756 281.795C100.273 282.591 100.869 282.79 101.168 282.79C101.565 282.79 101.864 282.69 102.063 282.591C102.162 281.895 102.46 281.199 103.057 280.801C100.77 280.304 99.0795 279.011 99.0795 276.824C99.0795 275.73 99.5767 274.636 100.273 273.841C100.173 273.642 100.074 273.145 100.074 272.449C100.074 272.051 100.074 271.455 100.372 270.858C100.372 270.858 101.764 270.858 103.156 272.151C103.653 271.952 104.349 271.852 105.045 271.852C105.741 271.852 106.438 271.952 107.034 272.151C108.327 270.858 109.818 270.858 109.818 270.858C110.017 271.455 110.017 272.051 110.017 272.449C110.017 273.244 109.918 273.642 109.818 273.841C110.514 274.636 111.011 275.631 111.011 276.824C111.011 279.011 109.321 280.304 107.034 280.801C107.631 281.298 108.028 282.193 108.028 283.088V285.673C108.028 285.972 108.327 286.27 108.724 286.17C112.403 284.679 114.989 281.099 114.989 276.923C114.989 270.957 109.918 266.284 103.952 266.98Z" fill="black"/>
+<path id="Vector_2" d="M117.452 266.98C112.878 267.477 109.199 271.156 108.702 275.631C108.205 280.304 110.889 284.48 114.966 286.071C115.264 286.17 115.563 285.972 115.563 285.574V283.983C115.563 283.983 115.165 284.082 114.668 284.082C113.276 284.082 112.679 282.889 112.58 282.193C112.48 281.795 112.281 281.497 111.983 281.199C111.685 281.099 111.585 281.099 111.585 281C111.585 280.801 111.884 280.801 111.983 280.801C112.58 280.801 113.077 281.497 113.276 281.795C113.773 282.591 114.369 282.79 114.668 282.79C115.065 282.79 115.364 282.69 115.563 282.591C115.662 281.895 115.96 281.199 116.557 280.801C114.27 280.304 112.58 279.011 112.58 276.824C112.58 275.73 113.077 274.636 113.773 273.841C113.673 273.642 113.574 273.145 113.574 272.449C113.574 272.051 113.574 271.455 113.872 270.858C113.872 270.858 115.264 270.858 116.656 272.151C117.153 271.952 117.849 271.852 118.545 271.852C119.241 271.852 119.938 271.952 120.534 272.151C121.827 270.858 123.318 270.858 123.318 270.858C123.517 271.455 123.517 272.051 123.517 272.449C123.517 273.244 123.418 273.642 123.318 273.841C124.014 274.636 124.511 275.631 124.511 276.824C124.511 279.011 122.821 280.304 120.534 280.801C121.131 281.298 121.528 282.193 121.528 283.088V285.673C121.528 285.972 121.827 286.27 122.224 286.17C125.903 284.679 128.489 281.099 128.489 276.923C128.489 270.957 123.418 266.284 117.452 266.98Z" fill="black"/>
 </g>
 </g>
 </g>
 <g id="Text_6">
-<text id="Subtitle_11" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="124.136" y="273.785">GitHub</tspan></text>
-<text id="Subtitle_12" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="124.136" y="285.342">@atkki</tspan></text>
+<text id="Subtitle_11" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="137.636" y="273.785">GitHub</tspan></text>
+<text id="Subtitle_12" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="137.636" y="285.342">@atkki</tspan></text>
 </g>
 </g>
-<g id="Row_6">
+<g id="ResumeRow">
 <g id="Featured icon_5">
 <g clip-path="url(#clip8_374_11599)">
-<rect id="Rectangle_5" x="95.5" y="303.08" width="19.0909" height="19.0909" rx="9.54545" fill="#516CF7"/>
+<rect id="Rectangle_5" x="109" y="303.08" width="19.0909" height="19.0909" rx="9.54545" fill="#95AAFB"/>
 <g id="basic/link_02">
-<path id="Icon_4" d="M103.288 316.868C102.283 316.868 101.376 316.263 100.992 315.334C100.607 314.405 100.819 313.336 101.53 312.625L102.585 311.57L103.288 312.273L102.234 313.327C101.857 313.704 101.71 314.254 101.847 314.768C101.985 315.283 102.387 315.685 102.902 315.823C103.417 315.961 103.966 315.814 104.343 315.437L105.397 314.382L106.1 315.086L105.046 316.14C104.581 316.608 103.948 316.87 103.288 316.868ZM103.639 314.734L102.936 314.031L106.452 310.516L107.155 311.219L103.64 314.733L103.639 314.734ZM107.507 313.679L106.803 312.976L107.858 311.922C108.24 311.546 108.391 310.995 108.254 310.477C108.117 309.959 107.712 309.554 107.194 309.417C106.676 309.28 106.125 309.431 105.749 309.813L104.694 310.867L103.991 310.164L105.046 309.109C106.018 308.146 107.586 308.149 108.554 309.117C109.521 310.085 109.525 311.653 108.561 312.625L107.507 313.679V313.679Z" fill="#F8F2FC"/>
+<path id="Icon_4" d="M116.788 316.868C115.783 316.868 114.876 316.263 114.492 315.334C114.107 314.405 114.319 313.336 115.03 312.625L116.085 311.57L116.788 312.273L115.734 313.327C115.357 313.704 115.21 314.254 115.347 314.768C115.485 315.283 115.887 315.685 116.402 315.823C116.917 315.961 117.466 315.814 117.843 315.437L118.897 314.382L119.6 315.086L118.546 316.14C118.081 316.608 117.448 316.87 116.788 316.868ZM117.139 314.734L116.436 314.031L119.952 310.516L120.655 311.219L117.14 314.733L117.139 314.734ZM121.007 313.679L120.303 312.976L121.358 311.922C121.74 311.546 121.891 310.995 121.754 310.477C121.617 309.959 121.212 309.554 120.694 309.417C120.176 309.28 119.625 309.431 119.249 309.813L118.194 310.867L117.491 310.164L118.546 309.109C119.518 308.146 121.086 308.149 122.054 309.117C123.021 310.085 123.025 311.653 122.061 312.625L121.007 313.679V313.679Z" fill="#F8F2FC"/>
 </g>
 </g>
 </g>
 <g id="Text_7">
-<text id="Subtitle_13" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7" letter-spacing="0.01em"><tspan x="124.136" y="308.819">Interactive resume (screenshots, videos)</tspan></text>
-<text id="Subtitle_14" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="124.136" y="321.046">https://kki.ovh/resume</tspan></text>
+<text id="Subtitle_13" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7" letter-spacing="0.01em"><tspan x="137.636" y="308.819">Resume with previews</tspan></text>
+<text id="Subtitle_14" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="137.636" y="321.046">https://resume.kki.ovh</tspan></text>
 </g>
 </g>
 </g>
 <g id="Divider_3" clip-path="url(#clip9_374_11599)">
-<rect id="divider_3" x="95.6491" y="336.467" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_3" x="109.149" y="336.467" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Languagues">
-<text id="Subtitle_15" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="95.5" y="357.643">Languages</tspan></text>
-<g id="Row_7">
+<text id="Subtitle_15" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="109" y="357.643">Languages</tspan></text>
+<g id="Row_3">
 <g id=" poland" clip-path="url(#clip10_374_11599)">
 <g id="artwork">
 <g clip-path="url(#clip11_374_11599)">
-<rect x="95.5" y="375.881" width="26.25" height="19.0909" rx="2.38636" fill="#AF010D"/>
-<path id="vector" fill-rule="evenodd" clip-rule="evenodd" d="M95.5 375.881H121.75V385.426H95.5V375.881Z" fill="#F8F2FC"/>
+<rect x="109" y="375.881" width="26.25" height="19.0909" rx="2.38636" fill="#AF010D"/>
+<path id="vector" fill-rule="evenodd" clip-rule="evenodd" d="M109 375.881H135.25V385.426H109V375.881Z" fill="#F8F2FC"/>
 </g>
 </g>
 </g>
 <g id="Text_8">
-<text id="Subtitle_16" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="131.295" y="381.961">Polish</tspan></text>
-<text id="Subtitle_17" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.15909" letter-spacing="0.01em"><tspan x="131.295" y="393.833">Native</tspan></text>
+<text id="Subtitle_16" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="144.795" y="381.961">Polish</tspan></text>
+<text id="Subtitle_17" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.15909" letter-spacing="0.01em"><tspan x="144.795" y="393.833">Native</tspan></text>
 </g>
 </g>
-<g id="Row_8">
+<g id="Row_4">
 <g id=" united-kingdom" clip-path="url(#clip12_374_11599)">
 <g id="artwork_2">
 <g clip-path="url(#clip13_374_11599)">
-<rect x="95.5" y="415.585" width="26.25" height="19.0909" rx="2.38636" fill="#1A47B8"/>
-<path id="vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M98.2925 415.585H95.5V418.767L118.942 434.676L121.75 434.676V431.494L98.2925 415.585Z" fill="white"/>
-<path id="vector_3" d="M96.4314 415.585L121.75 432.812V434.676H120.84L95.5 417.431V415.585H96.4314Z" fill="#F93939"/>
-<path id="vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M119.25 415.585H121.75V418.767C121.75 418.767 105.512 429.366 98.0001 434.676H95.5001V431.494L119.25 415.585Z" fill="white"/>
-<path id="vector_5" d="M121.75 415.585H120.902L95.5 432.827V434.676H96.4314L121.75 417.445V415.585Z" fill="#F93939"/>
-<path id="vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M105.046 415.585H112.225V421.474H121.75V428.784H112.225V434.676H105.046V428.784H95.5V421.474H105.046V415.585Z" fill="white"/>
-<path id="vector_7" fill-rule="evenodd" clip-rule="evenodd" d="M106.553 415.585H110.697V422.928H121.75V427.333H110.697V434.676H106.553V427.333H95.5V422.928H106.553V415.585Z" fill="#F93939"/>
+<rect x="109" y="415.585" width="26.25" height="19.0909" rx="2.38636" fill="#1A47B8"/>
+<path id="vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M111.792 415.585H109V418.767L132.442 434.676L135.25 434.676V431.494L111.792 415.585Z" fill="white"/>
+<path id="vector_3" d="M109.931 415.585L135.25 432.812V434.676H134.34L109 417.431V415.585H109.931Z" fill="#F93939"/>
+<path id="vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M132.75 415.585H135.25V418.767C135.25 418.767 119.012 429.366 111.5 434.676H109V431.494L132.75 415.585Z" fill="white"/>
+<path id="vector_5" d="M135.25 415.585H134.402L109 432.827V434.676H109.931L135.25 417.445V415.585Z" fill="#F93939"/>
+<path id="vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M118.546 415.585H125.725V421.474H135.25V428.784H125.725V434.676H118.546V428.784H109V421.474H118.546V415.585Z" fill="white"/>
+<path id="vector_7" fill-rule="evenodd" clip-rule="evenodd" d="M120.053 415.585H124.197V422.928H135.25V427.333H124.197V434.676H120.053V427.333H109V422.928H120.053V415.585Z" fill="#F93939"/>
 </g>
 </g>
 </g>
 <g id="Text_9">
-<text id="Subtitle_18" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="131.295" y="418.665">English</tspan></text>
-<text id="Subtitle_19" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="131.295" y="429.881">C1: reading&#x2028;</tspan><tspan x="131.295" y="437.881">B1: speaking, writing</tspan></text>
+<text id="Subtitle_18" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="144.795" y="418.665">English</tspan></text>
+<text id="Subtitle_19" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="144.795" y="429.881">C1: reading&#x2028;</tspan><tspan x="144.795" y="437.881">B1: speaking, writing</tspan></text>
 </g>
 </g>
 </g>
 <g id="Divider_4" clip-path="url(#clip14_374_11599)">
-<rect id="divider_4" x="95.6491" y="452.473" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_4" x="109.149" y="452.473" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Skillset">
 <g id="Subtitle_20">
-<text fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.15909" letter-spacing="0.01em"><tspan x="95.5" y="473.251">Technical </tspan></text>
-<text fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="129.082" y="473.251">skills</tspan></text>
+<text fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.15909" letter-spacing="0.01em"><tspan x="109" y="473.251">Technical </tspan></text>
+<text fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="142.582" y="473.251">skills</tspan></text>
 </g>
-<g id="Row_9">
+<g id="Row_5">
 <g id="Text_10">
 <g id="TextRow">
 <g id="misc/dot_04_l">
-<path id="Icon_5" d="M100.5 497.322C99.3494 497.322 98.4167 496.389 98.4167 495.239C98.4167 494.088 99.3494 493.155 100.5 493.155C101.651 493.155 102.583 494.088 102.583 495.239C102.583 496.389 101.651 497.322 100.5 497.322Z" fill="#95AAFB"/>
+<path id="Icon_5" d="M114 497.322C112.849 497.322 111.917 496.389 111.917 495.239C111.917 494.088 112.849 493.155 114 493.155C115.151 493.155 116.083 494.088 116.083 495.239C116.083 496.389 115.151 497.322 114 497.322Z" fill="#95AAFB"/>
 </g>
-<text id="Text_11" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="497.967">C++14</tspan></text>
+<text id="Text_11" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="497.967">C++14</tspan></text>
 </g>
 <g id="TextRow_2">
 <g id="misc/dot_04_l_2">
-<path id="Icon_6" d="M100.5 509.708C99.3494 509.708 98.4167 508.776 98.4167 507.625C98.4167 506.474 99.3494 505.542 100.5 505.542C101.651 505.542 102.583 506.474 102.583 507.625C102.583 508.776 101.651 509.708 100.5 509.708Z" fill="#95AAFB"/>
+<path id="Icon_6" d="M114 509.708C112.849 509.708 111.917 508.776 111.917 507.625C111.917 506.474 112.849 505.542 114 505.542C115.151 505.542 116.083 506.474 116.083 507.625C116.083 508.776 115.151 509.708 114 509.708Z" fill="#95AAFB"/>
 </g>
-<text id="Text_12" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="510.353">Scripting: Lua, JS (ES6), TypeScript</tspan></text>
+<text id="Text_12" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="510.353">Scripting: Lua, JS (ES6), TypeScript</tspan></text>
 </g>
 <g id="TextRow_3">
 <g id="misc/dot_04_l_3">
-<path id="Icon_7" d="M100.5 522.095C99.3494 522.095 98.4167 521.162 98.4167 520.011C98.4167 518.861 99.3494 517.928 100.5 517.928C101.651 517.928 102.583 518.861 102.583 520.011C102.583 521.162 101.651 522.095 100.5 522.095Z" fill="#95AAFB"/>
+<path id="Icon_7" d="M114 522.095C112.849 522.095 111.917 521.162 111.917 520.011C111.917 518.861 112.849 517.928 114 517.928C115.151 517.928 116.083 518.861 116.083 520.011C116.083 521.162 115.151 522.095 114 522.095Z" fill="#95AAFB"/>
 </g>
-<text id="Text_13" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="522.739">Unreal Engine 5</tspan></text>
+<text id="Text_13" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="522.739">Unreal Engine 5</tspan></text>
 </g>
 <g id="TextRow_4">
 <g id="misc/dot_04_l_4">
-<path id="Icon_8" d="M100.5 534.481C99.3494 534.481 98.4167 533.548 98.4167 532.398C98.4167 531.247 99.3494 530.314 100.5 530.314C101.651 530.314 102.583 531.247 102.583 532.398C102.583 533.548 101.651 534.481 100.5 534.481Z" fill="#95AAFB"/>
+<path id="Icon_8" d="M114 534.481C112.849 534.481 111.917 533.548 111.917 532.398C111.917 531.247 112.849 530.314 114 530.314C115.151 530.314 116.083 531.247 116.083 532.398C116.083 533.548 115.151 534.481 114 534.481Z" fill="#95AAFB"/>
 </g>
-<text id="Text_14" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="535.126">CI / CD, Linux knowledge</tspan></text>
+<text id="Text_14" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="535.126">CI / CD, Linux knowledge</tspan></text>
 </g>
 <g id="TextRow_5">
 <g id="misc/dot_04_l_5">
-<path id="Icon_9" d="M100.5 546.867C99.3494 546.867 98.4167 545.935 98.4167 544.784C98.4167 543.633 99.3494 542.701 100.5 542.701C101.651 542.701 102.583 543.633 102.583 544.784C102.583 545.935 101.651 546.867 100.5 546.867Z" fill="#95AAFB"/>
+<path id="Icon_9" d="M114 546.867C112.849 546.867 111.917 545.935 111.917 544.784C111.917 543.633 112.849 542.701 114 542.701C115.151 542.701 116.083 543.633 116.083 544.784C116.083 545.935 115.151 546.867 114 546.867Z" fill="#95AAFB"/>
 </g>
-<text id="Text_15" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="547.512">Version control, Git</tspan></text>
+<text id="Text_15" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="547.512">Version control, Git</tspan></text>
 </g>
 <g id="TextRow_6">
 <g id="misc/dot_04_l_6">
-<path id="Icon_10" d="M100.5 559.254C99.3494 559.254 98.4167 558.321 98.4167 557.17C98.4167 556.02 99.3494 555.087 100.5 555.087C101.651 555.087 102.583 556.02 102.583 557.17C102.583 558.321 101.651 559.254 100.5 559.254Z" fill="#95AAFB"/>
+<path id="Icon_10" d="M114 559.254C112.849 559.254 111.917 558.321 111.917 557.17C111.917 556.02 112.849 555.087 114 555.087C115.151 555.087 116.083 556.02 116.083 557.17C116.083 558.321 115.151 559.254 114 559.254Z" fill="#95AAFB"/>
 </g>
-<text id="Text_16" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="559.898">Audio engineering, music production</tspan></text>
+<text id="Text_16" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="559.898">Audio engineering, music production</tspan></text>
 </g>
 </g>
 <g id="MusicPreview">
-<rect x="96" y="572.216" width="66" height="19" rx="7.5" fill="#F7F9FC"/>
+<rect x="109.5" y="572.216" width="66" height="19" rx="7.5" fill="#F7F9FC"/>
 <g id="Content">
 <g id="Icon / small">
 <g id="Perm media">
-<path id="Vector_3" d="M113 577.216H107C106.45 577.216 106 577.621 106 578.116V583.516C106 584.011 106.45 584.416 107 584.416H113C113.55 584.416 114 584.011 114 583.516V578.116C114 577.621 113.55 577.216 113 577.216ZM113 583.516H107V578.116H113V583.516ZM109.25 583.066C109.94 583.066 110.5 582.562 110.5 581.941V579.466H112V578.566H110V581.045C109.79 580.901 109.535 580.816 109.25 580.816C108.56 580.816 108 581.32 108 581.941C108 582.562 108.56 583.066 109.25 583.066ZM105 579.016H104V585.316C104 585.811 104.45 586.216 105 586.216H112V585.316H105V579.016Z" fill="#9251F7"/>
+<path id="Vector_3" d="M126.5 577.216H120.5C119.95 577.216 119.5 577.621 119.5 578.116V583.516C119.5 584.011 119.95 584.416 120.5 584.416H126.5C127.05 584.416 127.5 584.011 127.5 583.516V578.116C127.5 577.621 127.05 577.216 126.5 577.216ZM126.5 583.516H120.5V578.116H126.5V583.516ZM122.75 583.066C123.44 583.066 124 582.562 124 581.941V579.466H125.5V578.566H123.5V581.045C123.29 580.901 123.035 580.816 122.75 580.816C122.06 580.816 121.5 581.32 121.5 581.941C121.5 582.562 122.06 583.066 122.75 583.066ZM118.5 579.016H117.5V585.316C117.5 585.811 117.95 586.216 118.5 586.216H125.5V585.316H118.5V579.016Z" fill="#9251F7"/>
 </g>
 </g>
-<text id="PREVIEW" fill="#9251F7" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="119.441" y="584.444">PREVIEW</tspan></text>
+<text id="PREVIEW" fill="#9251F7" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="132.941" y="584.444">PREVIEW</tspan></text>
 </g>
-<rect x="96" y="572.216" width="66" height="19" rx="7.5" stroke="#9251F7"/>
+<rect x="109.5" y="572.216" width="66" height="19" rx="7.5" stroke="#9251F7"/>
 </g>
 </g>
 </g>
 <g id="Divider_5" clip-path="url(#clip15_374_11599)">
-<rect id="divider_5" x="95.6491" y="604.865" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_5" x="109.149" y="604.865" width="168.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Soft skills">
-<text id="Subtitle_21" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="95.5" y="624.87">Soft skills</tspan></text>
-<g id="Row_10">
+<text id="Subtitle_21" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="109" y="624.87">Soft skills</tspan></text>
+<g id="Row_6">
 <g id="Text_17">
 <g id="TextRow_7">
 <g id="misc/dot_04_l_7">
-<path id="Icon_11" d="M100.5 647.714C99.3494 647.714 98.4167 646.781 98.4167 645.631C98.4167 644.48 99.3494 643.547 100.5 643.547C101.651 643.547 102.583 644.48 102.583 645.631C102.583 646.781 101.651 647.714 100.5 647.714Z" fill="#95AAFB"/>
+<path id="Icon_11" d="M114 647.714C112.849 647.714 111.917 646.781 111.917 645.631C111.917 644.48 112.849 643.547 114 643.547C115.151 643.547 116.083 644.48 116.083 645.631C116.083 646.781 115.151 647.714 114 647.714Z" fill="#95AAFB"/>
 </g>
-<text id="Text_18" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="648.359">Team Player</tspan></text>
+<text id="Text_18" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="648.359">Team player</tspan></text>
 </g>
 <g id="TextRow_8">
 <g id="misc/dot_04_l_8">
-<path id="Icon_12" d="M100.5 660.1C99.3494 660.1 98.4167 659.168 98.4167 658.017C98.4167 656.866 99.3494 655.934 100.5 655.934C101.651 655.934 102.583 656.866 102.583 658.017C102.583 659.168 101.651 660.1 100.5 660.1Z" fill="#95AAFB"/>
+<path id="Icon_12" d="M114 660.1C112.849 660.1 111.917 659.168 111.917 658.017C111.917 656.866 112.849 655.934 114 655.934C115.151 655.934 116.083 656.866 116.083 658.017C116.083 659.168 115.151 660.1 114 660.1Z" fill="#95AAFB"/>
 </g>
-<text id="Text_19" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="660.745">Responsible</tspan></text>
+<text id="Text_19" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="660.745">Responsible</tspan></text>
 </g>
 <g id="TextRow_9">
 <g id="misc/dot_04_l_9">
-<path id="Icon_13" d="M100.5 672.487C99.3494 672.487 98.4167 671.554 98.4167 670.403C98.4167 669.253 99.3494 668.32 100.5 668.32C101.651 668.32 102.583 669.253 102.583 670.403C102.583 671.554 101.651 672.487 100.5 672.487Z" fill="#95AAFB"/>
+<path id="Icon_13" d="M114 672.487C112.849 672.487 111.917 671.554 111.917 670.403C111.917 669.253 112.849 668.32 114 668.32C115.151 668.32 116.083 669.253 116.083 670.403C116.083 671.554 115.151 672.487 114 672.487Z" fill="#95AAFB"/>
 </g>
-<text id="Text_20" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="673.131">Resistant to stress</tspan></text>
+<text id="Text_20" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="673.131">Resistant to stress</tspan></text>
 </g>
 <g id="TextRow_10">
 <g id="misc/dot_04_l_10">
-<path id="Icon_14" d="M100.5 684.873C99.3494 684.873 98.4167 683.94 98.4167 682.79C98.4167 681.639 99.3494 680.706 100.5 680.706C101.651 680.706 102.583 681.639 102.583 682.79C102.583 683.94 101.651 684.873 100.5 684.873Z" fill="#95AAFB"/>
+<path id="Icon_14" d="M114 684.873C112.849 684.873 111.917 683.94 111.917 682.79C111.917 681.639 112.849 680.706 114 680.706C115.151 680.706 116.083 681.639 116.083 682.79C116.083 683.94 115.151 684.873 114 684.873Z" fill="#95AAFB"/>
 </g>
-<text id="Text_21" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="685.518">Creative</tspan></text>
+<text id="Text_21" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="685.518">Creative</tspan></text>
 </g>
 <g id="TextRow_11">
 <g id="misc/dot_04_l_11">
-<path id="Icon_15" d="M100.5 697.259C99.3494 697.259 98.4167 696.327 98.4167 695.176C98.4167 694.026 99.3494 693.093 100.5 693.093C101.651 693.093 102.583 694.026 102.583 695.176C102.583 696.327 101.651 697.259 100.5 697.259Z" fill="#95AAFB"/>
+<path id="Icon_15" d="M114 697.259C112.849 697.259 111.917 696.327 111.917 695.176C111.917 694.026 112.849 693.093 114 693.093C115.151 693.093 116.083 694.026 116.083 695.176C116.083 696.327 115.151 697.259 114 697.259Z" fill="#95AAFB"/>
 </g>
-<text id="Text_22" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="697.904">Fast learning</tspan></text>
+<text id="Text_22" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="697.904">Fast learning</tspan></text>
 </g>
 <g id="TextRow_12">
 <g id="misc/dot_04_l_12">
-<path id="Icon_16" d="M100.5 709.646C99.3494 709.646 98.4167 708.713 98.4167 707.563C98.4167 706.412 99.3494 705.479 100.5 705.479C101.651 705.479 102.583 706.412 102.583 707.563C102.583 708.713 101.651 709.646 100.5 709.646Z" fill="#95AAFB"/>
+<path id="Icon_16" d="M114 709.646C112.849 709.646 111.917 708.713 111.917 707.563C111.917 706.412 112.849 705.479 114 705.479C115.151 705.479 116.083 706.412 116.083 707.563C116.083 708.713 115.151 709.646 114 709.646Z" fill="#95AAFB"/>
 </g>
-<text id="Text_23" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="110.5" y="710.291">Aesthetic sense</tspan></text>
+<text id="Text_23" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="710.291">Aesthetic sense</tspan></text>
+</g>
+<g id="TextRow_13">
+<g id="misc/dot_04_l_13">
+<path id="Icon_17" d="M114 722.032C112.849 722.032 111.917 721.099 111.917 719.949C111.917 718.798 112.849 717.866 114 717.866C115.151 717.866 116.083 718.798 116.083 719.949C116.083 721.099 115.151 722.032 114 722.032Z" fill="#95AAFB"/>
+</g>
+<text id="Text_24" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="124" y="722.677">Emotionally intelligent</tspan></text>
 </g>
 </g>
 </g>
@@ -263,52 +269,52 @@
 </g>
 <defs>
 <clipPath id="clip0_374_11599">
-<rect width="169" height="0.596591" fill="white" transform="translate(95.5 66)"/>
+<rect width="169" height="0.596591" fill="white" transform="translate(109 66)"/>
 </clipPath>
 <clipPath id="clip1_374_11599">
-<rect x="95.5" y="79.5966" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="109" y="79.5966" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip2_374_11599">
-<rect x="95.5" y="114.301" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="109" y="114.301" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip3_374_11599">
-<rect x="95.5" y="149.653" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="109" y="149.653" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip4_374_11599">
-<rect x="95.5" y="191.466" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="109" y="191.466" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip5_374_11599">
-<rect width="11.9318" height="11.9318" fill="white" transform="translate(99.0795 195.045)"/>
+<rect width="11.9318" height="11.9318" fill="white" transform="translate(112.58 195.045)"/>
 </clipPath>
 <clipPath id="clip6_374_11599">
-<rect width="169" height="0.596591" fill="white" transform="translate(95.5 231.312)"/>
+<rect width="169" height="0.596591" fill="white" transform="translate(109 231.312)"/>
 </clipPath>
 <clipPath id="clip7_374_11599">
-<rect x="95.5" y="267.875" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="109" y="267.875" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip8_374_11599">
-<rect x="95.5" y="303.08" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="109" y="303.08" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip9_374_11599">
-<rect width="169" height="0.596591" fill="white" transform="translate(95.5 336.318)"/>
+<rect width="169" height="0.596591" fill="white" transform="translate(109 336.318)"/>
 </clipPath>
 <clipPath id="clip10_374_11599">
-<rect width="26.25" height="19.0909" fill="white" transform="translate(95.5 375.881)"/>
+<rect width="26.25" height="19.0909" fill="white" transform="translate(109 375.881)"/>
 </clipPath>
 <clipPath id="clip11_374_11599">
-<rect x="95.5" y="375.881" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
+<rect x="109" y="375.881" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
 </clipPath>
 <clipPath id="clip12_374_11599">
-<rect width="26.25" height="19.0909" fill="white" transform="translate(95.5 415.585)"/>
+<rect width="26.25" height="19.0909" fill="white" transform="translate(109 415.585)"/>
 </clipPath>
 <clipPath id="clip13_374_11599">
-<rect x="95.5" y="415.585" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
+<rect x="109" y="415.585" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
 </clipPath>
 <clipPath id="clip14_374_11599">
-<rect width="169" height="0.596591" fill="white" transform="translate(95.5 452.324)"/>
+<rect width="169" height="0.596591" fill="white" transform="translate(109 452.324)"/>
 </clipPath>
 <clipPath id="clip15_374_11599">
-<rect width="169" height="0.596591" fill="white" transform="translate(95.5 604.716)"/>
+<rect width="169" height="0.596591" fill="white" transform="translate(109 604.716)"/>
 </clipPath>
 </defs>
 </svg>
