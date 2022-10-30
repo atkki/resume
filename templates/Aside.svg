@@ -97,166 +97,163 @@
 <g id="ResumeRow">
 <g id="Featured icon_5">
 <g clip-path="url(#clip8_378_11987)">
-<rect id="Rectangle_5" x="20" y="303.08" width="19.0909" height="19.0909" rx="9.54545" fill="#95AAFB"/>
+<rect id="Rectangle_5" x="20" y="302.58" width="19.0909" height="19.0909" rx="9.54545" fill="#95AAFB"/>
 <g id="basic/link_02">
-<path id="Icon_4" d="M27.788 316.868C26.7827 316.868 25.8763 316.263 25.4915 315.334C25.1067 314.405 25.3193 313.336 26.03 312.625L27.085 311.57L27.788 312.273L26.7335 313.327C26.3567 313.704 26.2095 314.254 26.3475 314.768C26.4854 315.283 26.8874 315.685 27.4022 315.823C27.9169 315.961 28.4661 315.814 28.843 315.437L29.8974 314.382L30.6004 315.086L29.5459 316.14C29.0806 316.608 28.4476 316.87 27.788 316.868ZM28.1395 314.734L27.4365 314.031L30.9519 310.516L31.6549 311.219L28.14 314.733L28.1395 314.734ZM32.0069 313.679L31.3034 312.976L32.3579 311.922C32.7398 311.546 32.8909 310.995 32.7537 310.477C32.6165 309.959 32.2121 309.554 31.6943 309.417C31.1764 309.28 30.6247 309.431 30.2489 309.813L29.194 310.867L28.491 310.164L29.5459 309.109C30.5179 308.146 32.0859 308.149 33.0537 309.117C34.0214 310.085 34.0249 311.653 33.0614 312.625L32.0069 313.679V313.679Z" fill="#F8F2FC"/>
+<path id="Icon_4" d="M27.788 316.368C26.7827 316.368 25.8763 315.763 25.4915 314.834C25.1067 313.905 25.3193 312.836 26.03 312.125L27.085 311.07L27.788 311.773L26.7335 312.827C26.3567 313.204 26.2095 313.754 26.3475 314.268C26.4854 314.783 26.8874 315.185 27.4022 315.323C27.9169 315.461 28.4661 315.314 28.843 314.937L29.8974 313.882L30.6004 314.586L29.5459 315.64C29.0806 316.108 28.4476 316.37 27.788 316.368ZM28.1395 314.234L27.4365 313.531L30.9519 310.016L31.6549 310.719L28.14 314.233L28.1395 314.234ZM32.0069 313.179L31.3034 312.476L32.3579 311.422C32.7398 311.046 32.8909 310.495 32.7537 309.977C32.6165 309.459 32.2121 309.054 31.6943 308.917C31.1764 308.78 30.6247 308.931 30.2489 309.313L29.194 310.367L28.491 309.664L29.5459 308.609C30.5179 307.646 32.0859 307.649 33.0537 308.617C34.0214 309.585 34.0249 311.153 33.0614 312.125L32.0069 313.179V313.179Z" fill="#F8F2FC"/>
 </g>
 </g>
 </g>
 <g id="Text_7">
-<text id="Subtitle_13" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7" letter-spacing="0.01em"><tspan x="48.6364" y="308.819">Resume with previews</tspan></text>
-<text id="Subtitle_14" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="48.6364" y="321.046">https://resume.kki.ovh</tspan></text>
+<text id="Subtitle_13" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="48.6364" y="308.489">Resume with previews</tspan></text>
+<text id="Subtitle_14" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="48.6364" y="320.046">https://resume.kki.ovh</tspan></text>
 </g>
 </g>
 </g>
 <g id="Divider_3" clip-path="url(#clip9_378_11987)">
-<rect id="divider_3" x="20.1491" y="336.467" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_3" x="20.1491" y="335.467" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Languagues">
-<text id="Subtitle_15" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="20" y="357.643">Languages</tspan></text>
+<text id="Subtitle_15" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="355.472">Languages</tspan></text>
 <g id="Row_3">
 <g id=" poland" clip-path="url(#clip10_378_11987)">
 <g id="artwork">
 <g clip-path="url(#clip11_378_11987)">
-<rect x="20" y="375.881" width="26.25" height="19.0909" rx="2.38636" fill="#AF010D"/>
-<path id="vector" fill-rule="evenodd" clip-rule="evenodd" d="M20 375.881H46.25V385.426H20V375.881Z" fill="#F8F2FC"/>
+<rect x="20" y="372.881" width="26.25" height="19.0909" rx="2.38636" fill="#AF010D"/>
+<path id="vector" fill-rule="evenodd" clip-rule="evenodd" d="M20 372.881H46.25V382.426H20V372.881Z" fill="#F8F2FC"/>
 </g>
 </g>
 </g>
 <g id="Text_8">
-<text id="Subtitle_16" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="55.7954" y="381.961">Polish</tspan></text>
-<text id="Subtitle_17" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.15909" letter-spacing="0.01em"><tspan x="55.7954" y="393.833">Native</tspan></text>
+<text id="Subtitle_16" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="55.7954" y="378.961">Polish</tspan></text>
+<text id="Subtitle_17" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.15909" letter-spacing="0.01em"><tspan x="55.7954" y="390.833">Native</tspan></text>
 </g>
 </g>
 <g id="Row_4">
 <g id=" united-kingdom" clip-path="url(#clip12_378_11987)">
 <g id="artwork_2">
 <g clip-path="url(#clip13_378_11987)">
-<rect x="20" y="415.585" width="26.25" height="19.0909" rx="2.38636" fill="#1A47B8"/>
-<path id="vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M22.7925 415.585H20V418.767L43.4424 434.676L46.25 434.676V431.494L22.7925 415.585Z" fill="white"/>
-<path id="vector_3" d="M20.9314 415.585L46.25 432.812V434.676H45.3405L20 417.431V415.585H20.9314Z" fill="#F93939"/>
-<path id="vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M43.7501 415.585H46.2501V418.767C46.2501 418.767 30.0123 429.366 22.5001 434.676H20.0001V431.494L43.7501 415.585Z" fill="white"/>
-<path id="vector_5" d="M46.25 415.585H45.4022L20 432.827V434.676H20.9314L46.25 417.445V415.585Z" fill="#F93939"/>
-<path id="vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M29.5463 415.585H36.7255V421.474H46.25V428.784H36.7255V434.676H29.5463V428.784H20V421.474H29.5463V415.585Z" fill="white"/>
-<path id="vector_7" fill-rule="evenodd" clip-rule="evenodd" d="M31.0526 415.585H35.1974V422.928H46.25V427.333H35.1974V434.676H31.0526V427.333H20V422.928H31.0526V415.585Z" fill="#F93939"/>
+<rect x="20" y="412.585" width="26.25" height="19.0909" rx="2.38636" fill="#1A47B8"/>
+<path id="vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M22.7925 412.585H20V415.767L43.4424 431.676L46.25 431.676V428.494L22.7925 412.585Z" fill="white"/>
+<path id="vector_3" d="M20.9314 412.585L46.25 429.812V431.676H45.3405L20 414.431V412.585H20.9314Z" fill="#F93939"/>
+<path id="vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M43.7501 412.585H46.2501V415.767C46.2501 415.767 30.0123 426.366 22.5001 431.676H20.0001V428.494L43.7501 412.585Z" fill="white"/>
+<path id="vector_5" d="M46.25 412.585H45.4022L20 429.827V431.676H20.9314L46.25 414.445V412.585Z" fill="#F93939"/>
+<path id="vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M29.5463 412.585H36.7255V418.474H46.25V425.784H36.7255V431.676H29.5463V425.784H20V418.474H29.5463V412.585Z" fill="white"/>
+<path id="vector_7" fill-rule="evenodd" clip-rule="evenodd" d="M31.0526 412.585H35.1974V419.928H46.25V424.333H35.1974V431.676H31.0526V424.333H20V419.928H31.0526V412.585Z" fill="#F93939"/>
 </g>
 </g>
 </g>
 <g id="Text_9">
-<text id="Subtitle_18" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="55.7954" y="418.665">English</tspan></text>
-<text id="Subtitle_19" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="55.7954" y="429.881">C1: reading&#x2028;</tspan><tspan x="55.7954" y="437.881">B1: speaking, writing</tspan></text>
+<text id="Subtitle_18" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="55.7954" y="415.665">English</tspan></text>
+<text id="Subtitle_19" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="55.7954" y="426.881">C1: reading&#x2028;</tspan><tspan x="55.7954" y="434.881">B1: speaking, writing</tspan></text>
 </g>
 </g>
 </g>
 <g id="Divider_4" clip-path="url(#clip14_378_11987)">
-<rect id="divider_4" x="20.1491" y="452.473" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_4" x="20.1491" y="449.473" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Skillset">
-<g id="Subtitle_20">
-<text fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.15909" letter-spacing="0.01em"><tspan x="20" y="473.251">Technical </tspan></text>
-<text fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="53.582" y="473.251">skills</tspan></text>
-</g>
+<text id="Subtitle_20" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="469.478">Technical skills</tspan></text>
 <g id="Row_5">
 <g id="Text_10">
 <g id="TextRow">
 <g id="misc/dot_04_l">
-<path id="Icon_5" d="M25 497.322C23.8494 497.322 22.9167 496.389 22.9167 495.239C22.9167 494.088 23.8494 493.155 25 493.155C26.1506 493.155 27.0833 494.088 27.0833 495.239C27.0833 496.389 26.1506 497.322 25 497.322Z" fill="#95AAFB"/>
+<path id="Icon_5" d="M25 492.322C23.8494 492.322 22.9167 491.389 22.9167 490.239C22.9167 489.088 23.8494 488.155 25 488.155C26.1506 488.155 27.0833 489.088 27.0833 490.239C27.0833 491.389 26.1506 492.322 25 492.322Z" fill="#95AAFB"/>
 </g>
-<text id="Text_11" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="497.967">C++14</tspan></text>
+<text id="Text_11" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="492.967">C++14</tspan></text>
 </g>
 <g id="TextRow_2">
 <g id="misc/dot_04_l_2">
-<path id="Icon_6" d="M25 509.708C23.8494 509.708 22.9167 508.776 22.9167 507.625C22.9167 506.474 23.8494 505.542 25 505.542C26.1506 505.542 27.0833 506.474 27.0833 507.625C27.0833 508.776 26.1506 509.708 25 509.708Z" fill="#95AAFB"/>
+<path id="Icon_6" d="M25 504.708C23.8494 504.708 22.9167 503.776 22.9167 502.625C22.9167 501.474 23.8494 500.542 25 500.542C26.1506 500.542 27.0833 501.474 27.0833 502.625C27.0833 503.776 26.1506 504.708 25 504.708Z" fill="#95AAFB"/>
 </g>
-<text id="Text_12" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="510.353">Scripting: Lua, JS (ES6), TypeScript</tspan></text>
+<text id="Text_12" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="505.353">Scripting: Lua, JS (ES6), TypeScript</tspan></text>
 </g>
 <g id="TextRow_3">
 <g id="misc/dot_04_l_3">
-<path id="Icon_7" d="M25 522.095C23.8494 522.095 22.9167 521.162 22.9167 520.011C22.9167 518.861 23.8494 517.928 25 517.928C26.1506 517.928 27.0833 518.861 27.0833 520.011C27.0833 521.162 26.1506 522.095 25 522.095Z" fill="#95AAFB"/>
+<path id="Icon_7" d="M25 517.095C23.8494 517.095 22.9167 516.162 22.9167 515.011C22.9167 513.861 23.8494 512.928 25 512.928C26.1506 512.928 27.0833 513.861 27.0833 515.011C27.0833 516.162 26.1506 517.095 25 517.095Z" fill="#95AAFB"/>
 </g>
-<text id="Text_13" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="522.739">Unreal Engine 5</tspan></text>
+<text id="Text_13" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="517.739">Unreal Engine 5</tspan></text>
 </g>
 <g id="TextRow_4">
 <g id="misc/dot_04_l_4">
-<path id="Icon_8" d="M25 534.481C23.8494 534.481 22.9167 533.548 22.9167 532.398C22.9167 531.247 23.8494 530.314 25 530.314C26.1506 530.314 27.0833 531.247 27.0833 532.398C27.0833 533.548 26.1506 534.481 25 534.481Z" fill="#95AAFB"/>
+<path id="Icon_8" d="M25 529.481C23.8494 529.481 22.9167 528.548 22.9167 527.398C22.9167 526.247 23.8494 525.314 25 525.314C26.1506 525.314 27.0833 526.247 27.0833 527.398C27.0833 528.548 26.1506 529.481 25 529.481Z" fill="#95AAFB"/>
 </g>
-<text id="Text_14" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="535.126">CI / CD, Linux knowledge</tspan></text>
+<text id="Text_14" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="530.126">CI / CD, Linux knowledge</tspan></text>
 </g>
 <g id="TextRow_5">
 <g id="misc/dot_04_l_5">
-<path id="Icon_9" d="M25 546.867C23.8494 546.867 22.9167 545.935 22.9167 544.784C22.9167 543.633 23.8494 542.701 25 542.701C26.1506 542.701 27.0833 543.633 27.0833 544.784C27.0833 545.935 26.1506 546.867 25 546.867Z" fill="#95AAFB"/>
+<path id="Icon_9" d="M25 541.867C23.8494 541.867 22.9167 540.935 22.9167 539.784C22.9167 538.633 23.8494 537.701 25 537.701C26.1506 537.701 27.0833 538.633 27.0833 539.784C27.0833 540.935 26.1506 541.867 25 541.867Z" fill="#95AAFB"/>
 </g>
-<text id="Text_15" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="547.512">Version control, Git</tspan></text>
+<text id="Text_15" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="542.512">Version control, Git</tspan></text>
 </g>
 <g id="TextRow_6">
 <g id="misc/dot_04_l_6">
-<path id="Icon_10" d="M25 559.254C23.8494 559.254 22.9167 558.321 22.9167 557.17C22.9167 556.02 23.8494 555.087 25 555.087C26.1506 555.087 27.0833 556.02 27.0833 557.17C27.0833 558.321 26.1506 559.254 25 559.254Z" fill="#95AAFB"/>
+<path id="Icon_10" d="M25 554.254C23.8494 554.254 22.9167 553.321 22.9167 552.17C22.9167 551.02 23.8494 550.087 25 550.087C26.1506 550.087 27.0833 551.02 27.0833 552.17C27.0833 553.321 26.1506 554.254 25 554.254Z" fill="#95AAFB"/>
 </g>
-<text id="Text_16" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="559.898">Audio engineering, music production</tspan></text>
+<text id="Text_16" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="554.898">Audio engineering, music production</tspan></text>
 </g>
 </g>
 <g id="MusicPreview">
-<rect x="20.5" y="572.216" width="66" height="19" rx="7.5" fill="#F7F9FC"/>
+<rect x="20.5" y="567.216" width="66" height="19" rx="7.5" fill="#F7F9FC"/>
 <g id="Content">
 <g id="Icon / small">
 <g id="Perm media">
-<path id="Vector_3" d="M37.5 577.216H31.5C30.95 577.216 30.5 577.621 30.5 578.116V583.516C30.5 584.011 30.95 584.416 31.5 584.416H37.5C38.05 584.416 38.5 584.011 38.5 583.516V578.116C38.5 577.621 38.05 577.216 37.5 577.216ZM37.5 583.516H31.5V578.116H37.5V583.516ZM33.75 583.066C34.44 583.066 35 582.562 35 581.941V579.466H36.5V578.566H34.5V581.045C34.29 580.901 34.035 580.816 33.75 580.816C33.06 580.816 32.5 581.32 32.5 581.941C32.5 582.562 33.06 583.066 33.75 583.066ZM29.5 579.016H28.5V585.316C28.5 585.811 28.95 586.216 29.5 586.216H36.5V585.316H29.5V579.016Z" fill="#9251F7"/>
+<path id="Vector_3" d="M37.5 572.216H31.5C30.95 572.216 30.5 572.621 30.5 573.116V578.516C30.5 579.011 30.95 579.416 31.5 579.416H37.5C38.05 579.416 38.5 579.011 38.5 578.516V573.116C38.5 572.621 38.05 572.216 37.5 572.216ZM37.5 578.516H31.5V573.116H37.5V578.516ZM33.75 578.066C34.44 578.066 35 577.562 35 576.941V574.466H36.5V573.566H34.5V576.045C34.29 575.901 34.035 575.816 33.75 575.816C33.06 575.816 32.5 576.32 32.5 576.941C32.5 577.562 33.06 578.066 33.75 578.066ZM29.5 574.016H28.5V580.316C28.5 580.811 28.95 581.216 29.5 581.216H36.5V580.316H29.5V574.016Z" fill="#9251F7"/>
 </g>
 </g>
-<text id="PREVIEW" fill="#9251F7" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="43.9414" y="584.444">PREVIEW</tspan></text>
+<text id="PREVIEW" fill="#9251F7" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="43.9414" y="579.444">PREVIEW</tspan></text>
 </g>
-<rect x="20.5" y="572.216" width="66" height="19" rx="7.5" stroke="#9251F7"/>
+<rect x="20.5" y="567.216" width="66" height="19" rx="7.5" stroke="#9251F7"/>
 </g>
 </g>
 </g>
 <g id="Divider_5" clip-path="url(#clip15_378_11987)">
-<rect id="divider_5" x="20.1491" y="604.865" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_5" x="20.1491" y="599.865" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Soft skills">
-<text id="Subtitle_21" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="624.87">Soft skills</tspan></text>
+<text id="Subtitle_21" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="619.87">Soft skills</tspan></text>
 <g id="Row_6">
 <g id="Text_17">
 <g id="TextRow_7">
 <g id="misc/dot_04_l_7">
-<path id="Icon_11" d="M25 647.714C23.8494 647.714 22.9167 646.781 22.9167 645.631C22.9167 644.48 23.8494 643.547 25 643.547C26.1506 643.547 27.0833 644.48 27.0833 645.631C27.0833 646.781 26.1506 647.714 25 647.714Z" fill="#95AAFB"/>
+<path id="Icon_11" d="M25 642.714C23.8494 642.714 22.9167 641.781 22.9167 640.631C22.9167 639.48 23.8494 638.547 25 638.547C26.1506 638.547 27.0833 639.48 27.0833 640.631C27.0833 641.781 26.1506 642.714 25 642.714Z" fill="#95AAFB"/>
 </g>
-<text id="Text_18" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="648.359">Team player</tspan></text>
+<text id="Text_18" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="643.359">Team player</tspan></text>
 </g>
 <g id="TextRow_8">
 <g id="misc/dot_04_l_8">
-<path id="Icon_12" d="M25 660.1C23.8494 660.1 22.9167 659.168 22.9167 658.017C22.9167 656.866 23.8494 655.934 25 655.934C26.1506 655.934 27.0833 656.866 27.0833 658.017C27.0833 659.168 26.1506 660.1 25 660.1Z" fill="#95AAFB"/>
+<path id="Icon_12" d="M25 655.1C23.8494 655.1 22.9167 654.168 22.9167 653.017C22.9167 651.866 23.8494 650.934 25 650.934C26.1506 650.934 27.0833 651.866 27.0833 653.017C27.0833 654.168 26.1506 655.1 25 655.1Z" fill="#95AAFB"/>
 </g>
-<text id="Text_19" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="660.745">Responsible</tspan></text>
+<text id="Text_19" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="655.745">Responsible</tspan></text>
 </g>
 <g id="TextRow_9">
 <g id="misc/dot_04_l_9">
-<path id="Icon_13" d="M25 672.487C23.8494 672.487 22.9167 671.554 22.9167 670.403C22.9167 669.253 23.8494 668.32 25 668.32C26.1506 668.32 27.0833 669.253 27.0833 670.403C27.0833 671.554 26.1506 672.487 25 672.487Z" fill="#95AAFB"/>
+<path id="Icon_13" d="M25 667.487C23.8494 667.487 22.9167 666.554 22.9167 665.403C22.9167 664.253 23.8494 663.32 25 663.32C26.1506 663.32 27.0833 664.253 27.0833 665.403C27.0833 666.554 26.1506 667.487 25 667.487Z" fill="#95AAFB"/>
 </g>
-<text id="Text_20" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="673.131">Resistant to stress</tspan></text>
+<text id="Text_20" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="668.131">Resistant to stress</tspan></text>
 </g>
 <g id="TextRow_10">
 <g id="misc/dot_04_l_10">
-<path id="Icon_14" d="M25 684.873C23.8494 684.873 22.9167 683.94 22.9167 682.79C22.9167 681.639 23.8494 680.706 25 680.706C26.1506 680.706 27.0833 681.639 27.0833 682.79C27.0833 683.94 26.1506 684.873 25 684.873Z" fill="#95AAFB"/>
+<path id="Icon_14" d="M25 679.873C23.8494 679.873 22.9167 678.94 22.9167 677.79C22.9167 676.639 23.8494 675.706 25 675.706C26.1506 675.706 27.0833 676.639 27.0833 677.79C27.0833 678.94 26.1506 679.873 25 679.873Z" fill="#95AAFB"/>
 </g>
-<text id="Text_21" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="685.518">Creative</tspan></text>
+<text id="Text_21" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="680.518">Creative</tspan></text>
 </g>
 <g id="TextRow_11">
 <g id="misc/dot_04_l_11">
-<path id="Icon_15" d="M25 697.259C23.8494 697.259 22.9167 696.327 22.9167 695.176C22.9167 694.026 23.8494 693.093 25 693.093C26.1506 693.093 27.0833 694.026 27.0833 695.176C27.0833 696.327 26.1506 697.259 25 697.259Z" fill="#95AAFB"/>
+<path id="Icon_15" d="M25 692.259C23.8494 692.259 22.9167 691.327 22.9167 690.176C22.9167 689.026 23.8494 688.093 25 688.093C26.1506 688.093 27.0833 689.026 27.0833 690.176C27.0833 691.327 26.1506 692.259 25 692.259Z" fill="#95AAFB"/>
 </g>
-<text id="Text_22" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="697.904">Fast learning</tspan></text>
+<text id="Text_22" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="692.904">Fast learning</tspan></text>
 </g>
 <g id="TextRow_12">
 <g id="misc/dot_04_l_12">
-<path id="Icon_16" d="M25 709.646C23.8494 709.646 22.9167 708.713 22.9167 707.563C22.9167 706.412 23.8494 705.479 25 705.479C26.1506 705.479 27.0833 706.412 27.0833 707.563C27.0833 708.713 26.1506 709.646 25 709.646Z" fill="#95AAFB"/>
+<path id="Icon_16" d="M25 704.646C23.8494 704.646 22.9167 703.713 22.9167 702.563C22.9167 701.412 23.8494 700.479 25 700.479C26.1506 700.479 27.0833 701.412 27.0833 702.563C27.0833 703.713 26.1506 704.646 25 704.646Z" fill="#95AAFB"/>
 </g>
-<text id="Text_23" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="710.291">Aesthetic sense</tspan></text>
+<text id="Text_23" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="705.291">Aesthetic sense</tspan></text>
 </g>
 <g id="TextRow_13">
 <g id="misc/dot_04_l_13">
-<path id="Icon_17" d="M25 722.032C23.8494 722.032 22.9167 721.099 22.9167 719.949C22.9167 718.798 23.8494 717.866 25 717.866C26.1506 717.866 27.0833 718.798 27.0833 719.949C27.0833 721.099 26.1506 722.032 25 722.032Z" fill="#95AAFB"/>
+<path id="Icon_17" d="M25 717.032C23.8494 717.032 22.9167 716.099 22.9167 714.949C22.9167 713.798 23.8494 712.866 25 712.866C26.1506 712.866 27.0833 713.798 27.0833 714.949C27.0833 716.099 26.1506 717.032 25 717.032Z" fill="#95AAFB"/>
 </g>
-<text id="Text_24" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="722.677">Emotionally intelligent</tspan></text>
+<text id="Text_24" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8" letter-spacing="0em"><tspan x="35" y="717.677">Emotionally intelligent</tspan></text>
 </g>
 </g>
 </g>
@@ -290,28 +287,28 @@
 <rect x="20" y="267.875" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip8_378_11987">
-<rect x="20" y="303.08" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
+<rect x="20" y="302.58" width="19.0909" height="19.0909" rx="9.54545" fill="white"/>
 </clipPath>
 <clipPath id="clip9_378_11987">
-<rect width="170" height="0.596591" fill="white" transform="translate(20 336.318)"/>
+<rect width="170" height="0.596591" fill="white" transform="translate(20 335.318)"/>
 </clipPath>
 <clipPath id="clip10_378_11987">
-<rect width="26.25" height="19.0909" fill="white" transform="translate(20 375.881)"/>
+<rect width="26.25" height="19.0909" fill="white" transform="translate(20 372.881)"/>
 </clipPath>
 <clipPath id="clip11_378_11987">
-<rect x="20" y="375.881" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
+<rect x="20" y="372.881" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
 </clipPath>
 <clipPath id="clip12_378_11987">
-<rect width="26.25" height="19.0909" fill="white" transform="translate(20 415.585)"/>
+<rect width="26.25" height="19.0909" fill="white" transform="translate(20 412.585)"/>
 </clipPath>
 <clipPath id="clip13_378_11987">
-<rect x="20" y="415.585" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
+<rect x="20" y="412.585" width="26.25" height="19.0909" rx="2.38636" fill="white"/>
 </clipPath>
 <clipPath id="clip14_378_11987">
-<rect width="170" height="0.596591" fill="white" transform="translate(20 452.324)"/>
+<rect width="170" height="0.596591" fill="white" transform="translate(20 449.324)"/>
 </clipPath>
 <clipPath id="clip15_378_11987">
-<rect width="170" height="0.596591" fill="white" transform="translate(20 604.716)"/>
+<rect width="170" height="0.596591" fill="white" transform="translate(20 599.716)"/>
 </clipPath>
 </defs>
 </svg>
