@@ -30,6 +30,42 @@ const previews = [
         `
       });
     }
+  },
+
+  { 
+    id: 'RacetrackPreview',
+    callback: () => {
+
+    }
+  },
+
+  { 
+    id: 'PdfPreview',
+    callback: () => {
+      window.open('https://resume.kki.ovh/templates/Resume.pdf', '_blank');
+    }
+  }
+];
+
+const redirectors = [
+  {
+    id: 'EmailRow',
+    url: 'mailto:k.n.piskorski@gmail.com'
+  },
+
+  {
+    id: 'PhoneRow',
+    url: 'tel:+48666723089'
+  },
+
+  {
+    id: 'GithubRow',
+    url: 'https://github.com/atkki'
+  },
+
+  {
+    id: 'ResumeRow',
+    url: 'https://resume.kki.ovh'
   }
 ];
 
@@ -37,12 +73,25 @@ window.svgCustomLoadCallback = (svg) => {
   for (const preview of previews) {
     const el = svg.querySelector(`#${preview.id}`);
     if (el) {
+      el.classList.add('pointer');
       el.classList.add('preview-hover');
+
       el.querySelector('rect').classList.add('preview-hover-rect');
       el.querySelector('text').classList.add('preview-hover-text');
       el.onclick = () => {
         preview.callback();
       };
+    }
+  }
+
+  for (const redirector of redirectors) {
+    const el = svg.querySelector(`#${redirector.id}`);
+    if (el) {
+      el.classList.add('pointer');
+      
+      el.onclick = () => {
+        window.open(redirector.url, '_blank');
+      }
     }
   }
 };

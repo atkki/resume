@@ -18,7 +18,7 @@ text {
   font-family: Outfit, 'DM Sans';
 }
 
-#MusicPreview, #RacetrackPreview {
+.pointer {
   cursor: pointer;
 }
 
