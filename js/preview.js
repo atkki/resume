@@ -69,7 +69,7 @@ const redirectors = [
   }
 ];
 
-window.svgCustomLoadCallback = (svg) => {
+window.svgCustomLoadCallback = (svg, doc) => {
   for (const preview of previews) {
     const el = svg.querySelector(`#${preview.id}`);
     if (el) {
@@ -89,9 +89,12 @@ window.svgCustomLoadCallback = (svg) => {
     if (el) {
       el.classList.add('pointer');
       
-      el.onclick = () => {
-        window.open(redirector.url, '_blank');
-      }
+      const a = doc.createElementNS('http://www.w3.org/2000/svg', 'a');
+      a.setAttribute('href', redirector.url);
+      a.setAttribute('target', '_blank');
+      a.append(...el.childNodes);
+
+      el.prepend(a);
     }
   }
 };

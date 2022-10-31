@@ -12,7 +12,7 @@ const loadSVGStyles = () => {
       });
 
       if (typeof window.svgCustomLoadCallback === 'function') {
-        window.svgCustomLoadCallback(svg);
+        window.svgCustomLoadCallback(svg, contentDocument);
       }
     }
   });
