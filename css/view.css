@@ -30,8 +30,10 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  min-height: auto;
 
+  min-width: 100vw;
+  min-height: auto;
+  
   box-shadow: 0px 0px 5vw 1vw #9151f734;
 }
 
@@ -77,25 +79,23 @@ body {
   }
 }
 
-.audio-container {
-  display: flex;
-  flex-direction: column;
+.previews {
+  display: none;
 }
 
-.audio {
+.fslightbox-audio {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
-  padding: 0.5vw;
+  color: white;
 }
 
-.audio audio {
-  width: 100%;
+.fslightbox-audio span {
+  padding: 1vw;
 }
 
-body.swal2-shown > [aria-hidden="true"] {
-  transition: 0.1s filter;
-  filter: blur(10px);
+.fslightbox-audio audio {
+  width: 300px;
 }

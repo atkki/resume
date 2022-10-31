@@ -3,39 +3,50 @@ const previews = [
   { 
     id: 'MusicPreview',
     callback: () => {
-      Swal.fire({
-        title: 'Music preview',
-        html: `
-          <div class="audio-container">
-            <div class="audio">
-              <span>Electronic #1</span>
-              <audio controls src="${S3_URL}/music/crusing_through_tokyo.wav" />
-            </div>
+      const music = [
+        [0, 'Electronic #1', `${S3_URL}/music/crusing_through_tokyo.wav`],
+        [1, 'Electronic #2', `${S3_URL}/music/anxiety.wav`],
+        [2, 'Electronic #3', `${S3_URL}/music/zona.wav`],
+        [3, 'Piano #1', `${S3_URL}/music/piano.wav`],
+      ]
 
-            <div class="audio">
-              <span>Electronic #2</span>
-              <audio controls src="${S3_URL}/music/anxiety.wav" />
-            </div>
+      for (const track of music) {
+        const [id, title, url] = track;
+        if (!document.querySelector(`#music${id}`)) {
+          const div = document.createElement('div');
+          div.id = `music${id}`
+          div.innerHTML = `<span>${title}</span><audio controls src='${url}' />`;
+          document.querySelector('.previews').appendChild(div);
+          
+          const a = document.createElement('a');
+          a.setAttribute('data-fslightbox', 'music');
+          a.setAttribute('data-class', 'fslightbox-audio');
+          a.setAttribute('href', `#music${id}`);
+          div.appendChild(a);
+        }
+      }
+      
+      refreshFsLightbox();
+      fsLightboxInstances['music'].open();
 
-            <div class="audio">
-              <span>Electronic #3</span>
-              <audio controls src="${S3_URL}/music/zona.wav" />
-            </div>
-
-            <div class="audio">
-              <span>Piano #1</span>
-              <audio controls src="${S3_URL}/music/piano.wav" />
-            </div>
-          </div>
-        `
-      });
+      // disable audio on slide change
+      document.querySelectorAll('.fslightbox-slide-btn').forEach((b) => b.addEventListener('click', () => {
+        document.querySelectorAll('audio').forEach((a) => a.pause());
+      }));
     }
   },
 
   { 
     id: 'RacetrackPreview',
     callback: () => {
-
+      const lightbox = new FsLightbox();
+      lightbox.props.sources = [
+        '../media/previews/Racetrack1.png', 
+        '../media/previews/Racetrack2.png',
+        '../media/previews/Racetrack3.mp4',
+        '../media/previews/Racetrack4.mp4',
+      ];
+      lightbox.open();
     }
   },
 
@@ -81,6 +92,9 @@ window.svgCustomLoadCallback = (svg, doc) => {
       el.onclick = () => {
         preview.callback();
       };
+
+      if (preview.init)
+        preview.init();
     }
   }
 
