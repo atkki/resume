@@ -41,10 +41,10 @@ const previews = [
     callback: () => {
       const lightbox = new FsLightbox();
       lightbox.props.sources = [
-        '../media/previews/Racetrack1.png', 
-        '../media/previews/Racetrack2.png',
-        '../media/previews/Racetrack3.mp4',
-        '../media/previews/Racetrack4.mp4',
+        `${S3_URL}/previews/Racetrack1.png`, 
+        `${S3_URL}/previews/Racetrack2.png`,
+        `${S3_URL}/previews/Racetrack3.mp4`,
+        `${S3_URL}/previews/Racetrack4.mp4`,
       ];
       lightbox.open();
     }
