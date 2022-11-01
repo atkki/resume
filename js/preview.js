@@ -77,6 +77,11 @@ const redirectors = [
   {
     id: 'ResumeRow',
     url: 'https://resume.kki.ovh'
+  },
+
+  {
+    id: 'GithubRacetrack',
+    url: 'https://github.com/atkki/UE5_Racetrack'
   }
 ];
 
