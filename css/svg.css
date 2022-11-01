@@ -32,6 +32,6 @@ text {
   transition: opacity 0.25s ease;
 }
 
-.preview-hover:hover > text {
-  fill: red;
+#GithubRacetrack tspan {
+  fill: #79819A;
 }
