@@ -28,11 +28,6 @@ const previews = [
       
       refreshFsLightbox();
       fsLightboxInstances['music'].open();
-
-      // disable audio on slide change
-      document.querySelectorAll('.fslightbox-slide-btn').forEach((b) => b.addEventListener('click', () => {
-        document.querySelectorAll('audio').forEach((a) => a.pause());
-      }));
     }
   },
 
@@ -117,3 +112,14 @@ window.svgCustomLoadCallback = (svg, doc) => {
     }
   }
 };
+
+window.addEventListener('click', (event) => {
+  const { target } = event;
+  if (target.tagName.toLowerCase() !== 'audio') {
+    document.querySelectorAll('audio').forEach((a) => a.pause());
+  }
+
+  if (target.tagName.toLowerCase() !== 'video') {
+    document.querySelectorAll('video').forEach((v) => v.pause());
+  }
+});
