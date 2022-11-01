@@ -1,4 +1,4 @@
-const S3_URL = `https://s3.kki.ovh`;
+const S3_URL = `https://storage.waw.cloud.ovh.net/v1/AUTH_75018805baac4043a4941c0320cba1ba/kki`;
 const previews = [
   { 
     id: 'MusicPreview',
