@@ -104,7 +104,7 @@
 </g>
 </g>
 <g id="Text_7">
-<text id="Subtitle_13" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="48.6364" y="308.489">Resume with previews</tspan></text>
+<text id="Subtitle_13" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="48.6364" y="308.489">Web resume</tspan></text>
 <text id="Subtitle_14" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="48.6364" y="320.217">https://resume.kki.ovh</tspan></text>
 </g>
 </g>
@@ -152,108 +152,120 @@
 <rect id="divider_4" x="20.1491" y="447.473" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Skillset">
-<text id="Subtitle_20" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="467.478">Technical skills</tspan></text>
+<text id="Subtitle_20" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="468.478">Technical skills</tspan></text>
 <g id="Row_5">
 <g id="Text_10">
 <g id="TextRow">
 <g id="misc/dot_04_l">
-<path id="Icon_5" d="M25 490.822C23.8494 490.822 22.9167 489.889 22.9167 488.739C22.9167 487.588 23.8494 486.655 25 486.655C26.1506 486.655 27.0833 487.588 27.0833 488.739C27.0833 489.889 26.1506 490.822 25 490.822Z" fill="#95AAFB"/>
+<path id="Icon_5" d="M25 492.822C23.8494 492.822 22.9167 491.889 22.9167 490.739C22.9167 489.588 23.8494 488.655 25 488.655C26.1506 488.655 27.0833 489.588 27.0833 490.739C27.0833 491.889 26.1506 492.822 25 492.822Z" fill="#95AAFB"/>
 </g>
-<text id="Text_11" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="491.637">C++14</tspan></text>
+<text id="Text_11" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="493.637">C++14, CMake, Conan</tspan></text>
 </g>
 <g id="TextRow_2">
 <g id="misc/dot_04_l_2">
-<path id="Icon_6" d="M25 504.208C23.8494 504.208 22.9167 503.276 22.9167 502.125C22.9167 500.974 23.8494 500.042 25 500.042C26.1506 500.042 27.0833 500.974 27.0833 502.125C27.0833 503.276 26.1506 504.208 25 504.208Z" fill="#95AAFB"/>
+<path id="Icon_6" d="M25 506.208C23.8494 506.208 22.9167 505.276 22.9167 504.125C22.9167 502.974 23.8494 502.042 25 502.042C26.1506 502.042 27.0833 502.974 27.0833 504.125C27.0833 505.276 26.1506 506.208 25 506.208Z" fill="#95AAFB"/>
 </g>
-<text id="Text_12" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="505.023">Scripting: Lua, JS (ES6), TypeScript</tspan></text>
+<text id="Text_12" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="507.023">Lua</tspan></text>
 </g>
 <g id="TextRow_3">
 <g id="misc/dot_04_l_3">
-<path id="Icon_7" d="M25 517.595C23.8494 517.595 22.9167 516.662 22.9167 515.511C22.9167 514.361 23.8494 513.428 25 513.428C26.1506 513.428 27.0833 514.361 27.0833 515.511C27.0833 516.662 26.1506 517.595 25 517.595Z" fill="#95AAFB"/>
+<path id="Icon_7" d="M25 519.595C23.8494 519.595 22.9167 518.662 22.9167 517.511C22.9167 516.361 23.8494 515.428 25 515.428C26.1506 515.428 27.0833 516.361 27.0833 517.511C27.0833 518.662 26.1506 519.595 25 519.595Z" fill="#95AAFB"/>
 </g>
-<text id="Text_13" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="518.41">Unreal Engine 5</tspan></text>
+<text id="Text_13" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="520.41">JavaScript (ES10), Node.js, TypeScript</tspan></text>
 </g>
 <g id="TextRow_4">
 <g id="misc/dot_04_l_4">
-<path id="Icon_8" d="M25 530.981C23.8494 530.981 22.9167 530.048 22.9167 528.898C22.9167 527.747 23.8494 526.814 25 526.814C26.1506 526.814 27.0833 527.747 27.0833 528.898C27.0833 530.048 26.1506 530.981 25 530.981Z" fill="#95AAFB"/>
+<path id="Icon_8" d="M25 532.981C23.8494 532.981 22.9167 532.048 22.9167 530.898C22.9167 529.747 23.8494 528.814 25 528.814C26.1506 528.814 27.0833 529.747 27.0833 530.898C27.0833 532.048 26.1506 532.981 25 532.981Z" fill="#95AAFB"/>
 </g>
-<text id="Text_14" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="531.796">CI / CD, Linux knowledge</tspan></text>
+<text id="Text_14" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="533.796">CI / CD (GitHub Actions)</tspan></text>
 </g>
 <g id="TextRow_5">
 <g id="misc/dot_04_l_5">
-<path id="Icon_9" d="M25 544.367C23.8494 544.367 22.9167 543.435 22.9167 542.284C22.9167 541.133 23.8494 540.201 25 540.201C26.1506 540.201 27.0833 541.133 27.0833 542.284C27.0833 543.435 26.1506 544.367 25 544.367Z" fill="#95AAFB"/>
+<path id="Icon_9" d="M25 546.367C23.8494 546.367 22.9167 545.435 22.9167 544.284C22.9167 543.133 23.8494 542.201 25 542.201C26.1506 542.201 27.0833 543.133 27.0833 544.284C27.0833 545.435 26.1506 546.367 25 546.367Z" fill="#95AAFB"/>
 </g>
-<text id="Text_15" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="545.183">Version control, Git</tspan></text>
+<text id="Text_15" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="547.183">Linux, Docker</tspan></text>
 </g>
 <g id="TextRow_6">
 <g id="misc/dot_04_l_6">
-<path id="Icon_10" d="M25 557.754C23.8494 557.754 22.9167 556.821 22.9167 555.67C22.9167 554.52 23.8494 553.587 25 553.587C26.1506 553.587 27.0833 554.52 27.0833 555.67C27.0833 556.821 26.1506 557.754 25 557.754Z" fill="#95AAFB"/>
+<path id="Icon_10" d="M25 559.754C23.8494 559.754 22.9167 558.821 22.9167 557.67C22.9167 556.52 23.8494 555.587 25 555.587C26.1506 555.587 27.0833 556.52 27.0833 557.67C27.0833 558.821 26.1506 559.754 25 559.754Z" fill="#95AAFB"/>
 </g>
-<text id="Text_16" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="558.569">Audio engineering, music production</tspan></text>
+<text id="Text_16" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="560.569">Apache2, nginx</tspan></text>
 </g>
+<g id="TextRow_7">
+<g id="misc/dot_04_l_7">
+<path id="Icon_11" d="M25 573.14C23.8494 573.14 22.9167 572.207 22.9167 571.057C22.9167 569.906 23.8494 568.973 25 568.973C26.1506 568.973 27.0833 569.906 27.0833 571.057C27.0833 572.207 26.1506 573.14 25 573.14Z" fill="#95AAFB"/>
 </g>
-<g id="MusicPreview">
-<rect x="20.5" y="571.216" width="66" height="19" rx="7.5" fill="#F7F9FC"/>
-<g id="Content">
-<g id="Icon / small">
-<g id="Perm media">
-<path id="Vector_3" d="M36.5 576.216H30.5C29.95 576.216 29.5 576.621 29.5 577.116V582.516C29.5 583.011 29.95 583.416 30.5 583.416H36.5C37.05 583.416 37.5 583.011 37.5 582.516V577.116C37.5 576.621 37.05 576.216 36.5 576.216ZM36.5 582.516H30.5V577.116H36.5V582.516ZM32.75 582.066C33.44 582.066 34 581.562 34 580.941V578.466H35.5V577.566H33.5V580.045C33.29 579.901 33.035 579.816 32.75 579.816C32.06 579.816 31.5 580.32 31.5 580.941C31.5 581.562 32.06 582.066 32.75 582.066ZM28.5 578.016H27.5V584.316C27.5 584.811 27.95 585.216 28.5 585.216H35.5V584.316H28.5V578.016Z" fill="#9251F7"/>
+<text id="Text_17" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="573.955">MySQL, MariaDB, MongoDB</tspan></text>
 </g>
+<g id="TextRow_8">
+<g id="misc/dot_04_l_8">
+<path id="Icon_12" d="M25 586.526C23.8494 586.526 22.9167 585.594 22.9167 584.443C22.9167 583.293 23.8494 582.36 25 582.36C26.1506 582.36 27.0833 583.293 27.0833 584.443C27.0833 585.594 26.1506 586.526 25 586.526Z" fill="#95AAFB"/>
 </g>
-<text id="PREVIEW" fill="#9251F7" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="42.8752" y="583.614">PREVIEW</tspan></text>
+<text id="Text_18" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="587.342">Version control, Git</tspan></text>
 </g>
-<rect x="20.5" y="571.216" width="66" height="19" rx="7.5" stroke="#9251F7"/>
+<g id="TextRow_9">
+<g id="misc/dot_04_l_9">
+<path id="Icon_13" d="M25 599.913C23.8494 599.913 22.9167 598.98 22.9167 597.83C22.9167 596.679 23.8494 595.746 25 595.746C26.1506 595.746 27.0833 596.679 27.0833 597.83C27.0833 598.98 26.1506 599.913 25 599.913Z" fill="#95AAFB"/>
+</g>
+<text id="Text_19" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="600.728">Jira (basic), Trello</tspan></text>
+</g>
+<g id="TextRow_10">
+<g id="misc/dot_04_l_10">
+<path id="Icon_14" d="M25 613.299C23.8494 613.299 22.9167 612.366 22.9167 611.216C22.9167 610.065 23.8494 609.133 25 609.133C26.1506 609.133 27.0833 610.065 27.0833 611.216C27.0833 612.366 26.1506 613.299 25 613.299Z" fill="#95AAFB"/>
+</g>
+<text id="Text_20" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="614.114">Scrum / Agile (theoretical)</tspan></text>
+</g>
 </g>
 </g>
 </g>
 <g id="Divider_5" clip-path="url(#clip15_378_11987)">
-<rect id="divider_5" x="20.1491" y="603.865" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
+<rect id="divider_5" x="20.1491" y="629.865" width="169.702" height="0.298295" stroke="#E2E6EE" stroke-width="0.298295" stroke-linejoin="round"/>
 </g>
 <g id="Soft skills">
-<text id="Subtitle_21" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="623.87">Soft skills</tspan></text>
+<text id="Subtitle_21" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="20" y="649.87">Soft skills</tspan></text>
 <g id="Row_6">
-<g id="Text_17">
-<g id="TextRow_7">
-<g id="misc/dot_04_l_7">
-<path id="Icon_11" d="M25 647.214C23.8494 647.214 22.9167 646.281 22.9167 645.131C22.9167 643.98 23.8494 643.047 25 643.047C26.1506 643.047 27.0833 643.98 27.0833 645.131C27.0833 646.281 26.1506 647.214 25 647.214Z" fill="#95AAFB"/>
-</g>
-<text id="Text_18" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="648.029">Team player</tspan></text>
-</g>
-<g id="TextRow_8">
-<g id="misc/dot_04_l_8">
-<path id="Icon_12" d="M25 660.6C23.8494 660.6 22.9167 659.668 22.9167 658.517C22.9167 657.366 23.8494 656.434 25 656.434C26.1506 656.434 27.0833 657.366 27.0833 658.517C27.0833 659.668 26.1506 660.6 25 660.6Z" fill="#95AAFB"/>
-</g>
-<text id="Text_19" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="661.416">Responsible</tspan></text>
-</g>
-<g id="TextRow_9">
-<g id="misc/dot_04_l_9">
-<path id="Icon_13" d="M25 673.987C23.8494 673.987 22.9167 673.054 22.9167 671.903C22.9167 670.753 23.8494 669.82 25 669.82C26.1506 669.82 27.0833 670.753 27.0833 671.903C27.0833 673.054 26.1506 673.987 25 673.987Z" fill="#95AAFB"/>
-</g>
-<text id="Text_20" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="674.802">Resistant to stress</tspan></text>
-</g>
-<g id="TextRow_10">
-<g id="misc/dot_04_l_10">
-<path id="Icon_14" d="M25 687.373C23.8494 687.373 22.9167 686.44 22.9167 685.29C22.9167 684.139 23.8494 683.206 25 683.206C26.1506 683.206 27.0833 684.139 27.0833 685.29C27.0833 686.44 26.1506 687.373 25 687.373Z" fill="#95AAFB"/>
-</g>
-<text id="Text_21" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="688.188">Creative</tspan></text>
-</g>
+<g id="Text_21">
 <g id="TextRow_11">
 <g id="misc/dot_04_l_11">
-<path id="Icon_15" d="M25 700.759C23.8494 700.759 22.9167 699.827 22.9167 698.676C22.9167 697.526 23.8494 696.593 25 696.593C26.1506 696.593 27.0833 697.526 27.0833 698.676C27.0833 699.827 26.1506 700.759 25 700.759Z" fill="#95AAFB"/>
+<path id="Icon_15" d="M25 673.214C23.8494 673.214 22.9167 672.281 22.9167 671.131C22.9167 669.98 23.8494 669.047 25 669.047C26.1506 669.047 27.0833 669.98 27.0833 671.131C27.0833 672.281 26.1506 673.214 25 673.214Z" fill="#95AAFB"/>
 </g>
-<text id="Text_22" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="701.575">Fast learning</tspan></text>
+<text id="Text_22" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="674.029">Team player</tspan></text>
 </g>
 <g id="TextRow_12">
 <g id="misc/dot_04_l_12">
-<path id="Icon_16" d="M25 714.146C23.8494 714.146 22.9167 713.213 22.9167 712.062C22.9167 710.912 23.8494 709.979 25 709.979C26.1506 709.979 27.0833 710.912 27.0833 712.062C27.0833 713.213 26.1506 714.146 25 714.146Z" fill="#95AAFB"/>
+<path id="Icon_16" d="M25 686.6C23.8494 686.6 22.9167 685.668 22.9167 684.517C22.9167 683.366 23.8494 682.434 25 682.434C26.1506 682.434 27.0833 683.366 27.0833 684.517C27.0833 685.668 26.1506 686.6 25 686.6Z" fill="#95AAFB"/>
 </g>
-<text id="Text_23" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="714.961">Aesthetic sense</tspan></text>
+<text id="Text_23" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="687.416">Responsible</tspan></text>
 </g>
 <g id="TextRow_13">
 <g id="misc/dot_04_l_13">
-<path id="Icon_17" d="M25 727.532C23.8494 727.532 22.9167 726.599 22.9167 725.449C22.9167 724.298 23.8494 723.366 25 723.366C26.1506 723.366 27.0833 724.298 27.0833 725.449C27.0833 726.599 26.1506 727.532 25 727.532Z" fill="#95AAFB"/>
+<path id="Icon_17" d="M25 699.987C23.8494 699.987 22.9167 699.054 22.9167 697.903C22.9167 696.753 23.8494 695.82 25 695.82C26.1506 695.82 27.0833 696.753 27.0833 697.903C27.0833 699.054 26.1506 699.987 25 699.987Z" fill="#95AAFB"/>
 </g>
-<text id="Text_24" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="728.347">Emotionally intelligent</tspan></text>
+<text id="Text_24" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="700.802">Resistant to stress</tspan></text>
+</g>
+<g id="TextRow_14">
+<g id="misc/dot_04_l_14">
+<path id="Icon_18" d="M25 713.373C23.8494 713.373 22.9167 712.44 22.9167 711.29C22.9167 710.139 23.8494 709.206 25 709.206C26.1506 709.206 27.0833 710.139 27.0833 711.29C27.0833 712.44 26.1506 713.373 25 713.373Z" fill="#95AAFB"/>
+</g>
+<text id="Text_25" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="714.188">Creative</tspan></text>
+</g>
+<g id="TextRow_15">
+<g id="misc/dot_04_l_15">
+<path id="Icon_19" d="M25 726.759C23.8494 726.759 22.9167 725.827 22.9167 724.676C22.9167 723.526 23.8494 722.593 25 722.593C26.1506 722.593 27.0833 723.526 27.0833 724.676C27.0833 725.827 26.1506 726.759 25 726.759Z" fill="#95AAFB"/>
+</g>
+<text id="Text_26" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="727.575">Fast learning</tspan></text>
+</g>
+<g id="TextRow_16">
+<g id="misc/dot_04_l_16">
+<path id="Icon_20" d="M25 740.146C23.8494 740.146 22.9167 739.213 22.9167 738.062C22.9167 736.912 23.8494 735.979 25 735.979C26.1506 735.979 27.0833 736.912 27.0833 738.062C27.0833 739.213 26.1506 740.146 25 740.146Z" fill="#95AAFB"/>
+</g>
+<text id="Text_27" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="740.961">Aesthetic sense</tspan></text>
+</g>
+<g id="TextRow_17">
+<g id="misc/dot_04_l_17">
+<path id="Icon_21" d="M25 753.532C23.8494 753.532 22.9167 752.599 22.9167 751.449C22.9167 750.298 23.8494 749.366 25 749.366C26.1506 749.366 27.0833 750.298 27.0833 751.449C27.0833 752.599 26.1506 753.532 25 753.532Z" fill="#95AAFB"/>
+</g>
+<text id="Text_28" fill="#232339" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="35" y="754.347">Emotionally intelligent</tspan></text>
 </g>
 </g>
 </g>
@@ -308,7 +320,7 @@
 <rect width="170" height="0.596591" fill="white" transform="translate(20 447.324)"/>
 </clipPath>
 <clipPath id="clip15_378_11987">
-<rect width="170" height="0.596591" fill="white" transform="translate(20 603.716)"/>
+<rect width="170" height="0.596591" fill="white" transform="translate(20 629.716)"/>
 </clipPath>
 </defs>
 </svg>

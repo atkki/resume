@@ -16,11 +16,8 @@
 </g>
 </g>
 <g id="Latest projects section">
-<text id="Title" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="56" y="32.44">Profile</tspan></text>
-<g id="Self-taught programmer with flexible skillset and artistic background.&#226;&#128;&#168;Dedicating career towards commercial game development and most passionate in this industry after trying other IT directions.&#226;&#128;&#168;Backed by running a successful gamedev-related business.&#226;&#128;&#168;Engaging easily into new projects, currently focused on mastering modern C++.&#226;&#128;&#168;Interested in contributing to gaming projects and learning from experienced teams.">
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="56" y="60.3985">Self-taught programmer with flexible skillset and artistic background.&#x2028;</tspan><tspan x="550.204" y="71.3985">&#x2028;</tspan><tspan x="56" y="82.3985">Backed by running a successful gamedev-related business.&#x2028;</tspan><tspan x="56" y="104.398">Interested</tspan></text>
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="56" y="71.3985">Dedicating career towards commercial game development and most passionate in this industry after trying other IT directions.</tspan><tspan x="56" y="93.3985">Engaging easily into new projects, currently focused on mastering modern C++.&#x2028;</tspan><tspan x="96.0264" y="104.398"> in contributing to gaming projects and learning from experienced teams.</tspan></text>
-</g>
+<text id="Title" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="48" y="32.44">Profile</tspan></text>
+<text id="Self-taught programmer with flexible skillset.&#226;&#128;&#168;Most passionate in game industry after trying other IT directions. &#226;&#128;&#168;Specialized in modern web technologies, interested in low-level programming concepts and DevOps practices. &#226;&#128;&#168;Backed by running business related with game development.&#226;&#128;&#168;Engaging easily into new projects, quickly acquiring skills, communicative and self-organized." fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="48" y="60.3985">Self-taught programmer with flexible skillset.&#x2028;</tspan><tspan x="48" y="71.3985">Most passionate in game industry after trying other IT directions. &#x2028;</tspan><tspan x="48" y="82.3985">Specialized in modern web technologies, interested in low-level programming concepts and DevOps practices. &#x2028;</tspan><tspan x="48" y="93.3985">Backed by running business related with game development.&#x2028;</tspan><tspan x="48" y="104.398">Engaging easily into new projects, quickly acquiring skills, communicative and self-organized.</tspan></text>
 </g>
 </g>
 <g id="Experience">
@@ -35,81 +32,127 @@
 </g>
 </g>
 <g id="Divider_2" clip-path="url(#clip3_378_11988)">
-<rect id="divider_2" x="31.875" y="147.125" width="0.25" height="268.95" stroke="#E2E6EE" stroke-width="0.25" stroke-linejoin="round"/>
+<rect id="divider_2" x="31.875" y="147.125" width="0.25" height="409.642" stroke="#E2E6EE" stroke-width="0.25" stroke-linejoin="round"/>
 </g>
 </g>
 <g id="Experience section">
-<text id="Title_2" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="56.253" y="143.44">Experience</tspan></text>
+<text id="Title_2" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="48.253" y="143.44">Experience</tspan></text>
 <g id="Content_2">
 <g id="Experience_2">
 <g id="Content_3">
 <g id="Experience_3">
 <g id="Date and place">
-<text id="Date" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="56" y="175.884">03.2021 - now</tspan></text>
+<text id="Date" fill="#47516B" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="48" y="175.884">03.2021 - now</tspan></text>
 <g id="Location">
 <g id="basic/location">
-<path id="Icon_3" d="M120.923 175.219C120.549 174.9 120.202 174.55 119.887 174.174C119.413 173.608 118.85 172.765 118.85 171.962C118.85 171.123 119.355 170.366 120.13 170.045C120.905 169.724 121.797 169.902 122.39 170.495C122.78 170.883 122.998 171.411 122.996 171.962C122.996 172.765 122.433 173.608 121.96 174.174C121.644 174.55 121.297 174.9 120.923 175.219ZM120.923 171.073C120.606 171.073 120.312 171.242 120.154 171.517C119.995 171.792 119.995 172.131 120.154 172.406C120.312 172.681 120.606 172.85 120.923 172.85C121.414 172.85 121.812 172.452 121.812 171.962C121.812 171.471 121.414 171.073 120.923 171.073Z" fill="#79819A"/>
+<path id="Icon_3" d="M112.923 175.219C112.549 174.9 112.202 174.55 111.887 174.174C111.413 173.608 110.85 172.765 110.85 171.962C110.85 171.123 111.355 170.366 112.13 170.045C112.905 169.724 113.797 169.902 114.39 170.495C114.78 170.883 114.998 171.411 114.996 171.962C114.996 172.765 114.433 173.608 113.96 174.174C113.644 174.55 113.297 174.9 112.923 175.219ZM112.923 171.073C112.606 171.073 112.312 171.242 112.154 171.517C111.995 171.792 111.995 172.131 112.154 172.406C112.312 172.681 112.606 172.85 112.923 172.85C113.414 172.85 113.812 172.452 113.812 171.962C113.812 171.471 113.414 171.073 112.923 171.073Z" fill="#79819A"/>
 </g>
-<text id="Text" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="6" font-weight="500" letter-spacing="0em"><tspan x="126.846" y="174.6">Remote</tspan></text>
+<text id="Text" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="6" font-weight="500" letter-spacing="0em"><tspan x="118.846" y="174.6">Remote</tspan></text>
 </g>
 </g>
 <g id="Company and role">
 <g id="Logo icon" filter="url(#filter2_d_378_11988)">
 <g clip-path="url(#clip4_378_11988)">
-<path id="Vector" d="M62.0858 208.711C60.6585 208.649 59.8831 208.421 59.3674 208.228C58.6841 207.973 58.1969 207.67 57.6841 207.179C57.1712 206.688 56.8538 206.221 56.5892 205.567C56.388 205.072 56.1505 204.329 56.0856 202.961C56.0143 201.483 56 201.039 56 197.293C56 193.547 56.0157 193.104 56.0849 191.624C56.1498 190.257 56.3887 189.515 56.5885 189.019C56.8545 188.365 57.1719 187.898 57.6834 187.406C58.1955 186.915 58.6827 186.61 59.3667 186.356C59.8824 186.163 60.6578 185.936 62.0851 185.874C63.6286 185.806 64.0923 185.792 67.9996 185.792C71.9085 185.792 72.3707 185.807 73.9149 185.874C75.3422 185.936 76.1161 186.165 76.6333 186.356C77.3166 186.61 77.8038 186.915 78.3166 187.406C78.8295 187.896 79.1455 188.364 79.4115 189.019C79.6127 189.513 79.8502 190.256 79.9151 191.624C79.9857 193.104 80 193.547 80 197.293C80 201.037 79.9857 201.482 79.9151 202.961C79.8502 204.329 79.6113 205.072 79.4115 205.567C79.1455 206.221 78.8288 206.688 78.3166 207.179C77.8045 207.67 77.3166 207.973 76.6333 208.228C76.1176 208.421 75.3422 208.649 73.9149 208.711C72.3721 208.779 71.9085 208.792 67.9996 208.792C64.0923 208.792 63.6286 208.779 62.0858 208.711Z" fill="white"/>
-<rect id="logo 1" x="60" y="189" width="16" height="16" fill="url(#pattern0)"/>
+<path id="Vector" d="M54.0858 208.711C52.6585 208.649 51.8831 208.421 51.3674 208.228C50.6841 207.973 50.1969 207.67 49.6841 207.179C49.1712 206.688 48.8538 206.221 48.5892 205.567C48.388 205.072 48.1505 204.329 48.0856 202.961C48.0143 201.483 48 201.039 48 197.293C48 193.547 48.0157 193.104 48.0849 191.624C48.1498 190.257 48.3887 189.515 48.5885 189.019C48.8545 188.365 49.1719 187.898 49.6834 187.406C50.1955 186.915 50.6827 186.61 51.3667 186.356C51.8824 186.163 52.6578 185.936 54.0851 185.874C55.6286 185.806 56.0923 185.792 59.9996 185.792C63.9085 185.792 64.3707 185.807 65.9149 185.874C67.3422 185.936 68.1161 186.165 68.6333 186.356C69.3166 186.61 69.8038 186.915 70.3166 187.406C70.8295 187.896 71.1455 188.364 71.4115 189.019C71.6127 189.513 71.8502 190.256 71.9151 191.624C71.9857 193.104 72 193.547 72 197.293C72 201.037 71.9857 201.482 71.9151 202.961C71.8502 204.329 71.6113 205.072 71.4115 205.567C71.1455 206.221 70.8288 206.688 70.3166 207.179C69.8045 207.67 69.3166 207.973 68.6333 208.228C68.1176 208.421 67.3422 208.649 65.9149 208.711C64.3721 208.779 63.9085 208.792 59.9996 208.792C56.0923 208.792 55.6286 208.779 54.0858 208.711Z" fill="white"/>
+<rect id="logo 1" x="52" y="189" width="16" height="16" fill="url(#pattern0)"/>
 </g>
 </g>
 <g id="Content_4">
-<text id="Title_3" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="89.4769" y="195.732">Harmony Solutions sp. z o.o.</tspan></text>
-<text id="Subtitle" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="89.4769" y="208.622">Junior Fullstack Developer, company owner, full-time</tspan></text>
+<text id="Title_3" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="81.4769" y="195.732">Harmony Solutions sp. z o.o.</tspan></text>
+<text id="Subtitle" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="81.4769" y="208.622">Junior Fullstack Developer, company owner, full-time</tspan></text>
 </g>
 </g>
 </g>
-<text id="Description" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="56" y="224.429">Developing and managing MMO game servers for Grand Theft Auto multiplayer mods. &#x2028;</tspan><tspan x="56" y="235.429">72,000 player accounts, ~1500 unique players weekly peak, +100,000 hours played.</tspan></text>
+<text id="Description" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="48" y="224.429">Developing and managing MMO game servers for Grand Theft Auto multiplayer mods. 75,000 player accounts, +100,000 hours </tspan><tspan x="48" y="235.429">played.</tspan></text>
 <g id="TextRow">
 <g id="misc/dot_04_l_3">
-<path id="Icon_4" d="M61 255.853C59.8494 255.853 58.9167 254.92 58.9167 253.769C58.9167 252.619 59.8494 251.686 61 251.686C62.1506 251.686 63.0834 252.619 63.0834 253.769C63.0834 254.92 62.1506 255.853 61 255.853Z" fill="#95AAFB"/>
+<path id="Icon_4" d="M53 255.853C51.8494 255.853 50.9167 254.92 50.9167 253.769C50.9167 252.619 51.8494 251.686 53 251.686C54.1506 251.686 55.0833 252.619 55.0833 253.769C55.0833 254.92 54.1506 255.853 53 255.853Z" fill="#95AAFB"/>
 </g>
 <g id="Text_2">
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="102.086" y="251.168">&#x2028;</tspan><tspan x="71" y="262.168">~120,000 PLN net income in 2021 by F2P monetization&#13;</tspan></text>
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="71" y="251.168">Business</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="97.2324" y="251.168">&#x2028;</tspan><tspan x="63" y="262.168">Economy and gameplay design, basic vector / matrix math, UDP networking, Lua scripting (~250,000 LOC), HLSL shaders&#13;</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="63" y="251.168">Gamedev</tspan></text>
 </g>
 </g>
 <g id="TextRow_2">
 <g id="misc/dot_04_l_4">
-<path id="Icon_5" d="M61 282.591C59.8494 282.591 58.9167 281.658 58.9167 280.508C58.9167 279.357 59.8494 278.424 61 278.424C62.1506 278.424 63.0834 279.357 63.0834 280.508C63.0834 281.658 62.1506 282.591 61 282.591Z" fill="#95AAFB"/>
+<path id="Icon_5" d="M53 287.591C51.8494 287.591 50.9167 286.658 50.9167 285.508C50.9167 284.357 51.8494 283.424 53 283.424C54.1506 283.424 55.0833 284.357 55.0833 285.508C55.0833 286.658 54.1506 287.591 53 287.591Z" fill="#95AAFB"/>
 </g>
 <g id="Text_3">
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="105.232" y="277.906">&#x2028;</tspan><tspan x="71" y="288.906">Economy and gameplay design, basic vector / matrix math, UDP networking, Lua scripting, HLSL shaders&#13;</tspan></text>
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="71" y="277.906">Gamedev</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="289.838">FFmpeg microservice for video -&#62; audio conversion. &#x2028;</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" font-weight="500" letter-spacing="0.02em"><tspan x="63" y="278.838">Webdev&#10;</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="63" y="298.838">(S3 storage, Node.js streams)</tspan></text>
 </g>
 </g>
 <g id="TextRow_3">
 <g id="misc/dot_04_l_5">
-<path id="Icon_6" d="M61 309.329C59.8494 309.329 58.9167 308.397 58.9167 307.246C58.9167 306.096 59.8494 305.163 61 305.163C62.1506 305.163 63.0834 306.096 63.0834 307.246C63.0834 308.397 62.1506 309.329 61 309.329Z" fill="#95AAFB"/>
+<path id="Icon_6" d="M53 313.829C51.8494 313.829 50.9167 312.897 50.9167 311.746C50.9167 310.596 51.8494 309.663 53 309.663C54.1506 309.663 55.0833 310.596 55.0833 311.746C55.0833 312.897 54.1506 313.829 53 313.829Z" fill="#95AAFB"/>
 </g>
 <g id="Text_4">
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="99.6045" y="304.645">&#x2028;</tspan><tspan x="71" y="315.645">Node.js / MySQL / GraphQL server backend, React.js / Tailwind frontend, Cloud deployment&#13;</tspan></text>
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="71" y="304.645">Webdev</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="314.645">Integrations of payment gateways. </tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="199.672" y="314.645">(Bank transfers, BLIK, PayPal, PaySafeCard)</tspan></text>
 </g>
 </g>
 <g id="TextRow_4">
 <g id="misc/dot_04_l_6">
-<path id="Icon_7" d="M61 341.568C59.8494 341.568 58.9167 340.635 58.9167 339.485C58.9167 338.334 59.8494 337.401 61 337.401C62.1506 337.401 63.0834 338.334 63.0834 339.485C63.0834 340.635 62.1506 341.568 61 341.568Z" fill="#95AAFB"/>
+<path id="Icon_7" d="M53 334.068C51.8494 334.068 50.9167 333.135 50.9167 331.985C50.9167 330.834 51.8494 329.901 53 329.901C54.1506 329.901 55.0833 330.834 55.0833 331.985C55.0833 333.135 54.1506 334.068 53 334.068Z" fill="#95AAFB"/>
 </g>
 <g id="Text_5">
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="96.6494" y="331.383">&#x2028;</tspan><tspan x="71" y="342.383">Linux knowledge, infrastructure planning, DDoS filtering, build pipelines using GitHub Actions and Cloudflare Pages, backup </tspan><tspan x="71" y="353.383">management, Docker containerization</tspan></text>
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="71" y="331.383">Devops</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="330.383">Helpdesk software for communication between players and staff with realtime  chat. </tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="395.206" y="330.383">(TypeScript, React.js, TailwindCSS, Web </tspan><tspan x="63" y="339.383">sockets)</tspan></text>
 </g>
 </g>
 <g id="TextRow_5">
 <g id="misc/dot_04_l_7">
-<path id="Icon_8" d="M61 373.806C59.8494 373.806 58.9167 372.874 58.9167 371.723C58.9167 370.572 59.8494 369.64 61 369.64C62.1506 369.64 63.0834 370.572 63.0834 371.723C63.0834 372.874 62.1506 373.806 61 373.806Z" fill="#95AAFB"/>
+<path id="Icon_8" d="M53 358.806C51.8494 358.806 50.9167 357.874 50.9167 356.723C50.9167 355.572 51.8494 354.64 53 354.64C54.1506 354.64 55.0833 355.572 55.0833 356.723C55.0833 357.874 54.1506 358.806 53 358.806Z" fill="#95AAFB"/>
 </g>
 <g id="Text_6">
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="104.743" y="369.122">&#x2028;</tspan><tspan x="71" y="380.122">Entrepreneurial &#38; tax law knowledge, team management, conflict resolutions</tspan></text>
-<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="71" y="369.122">Soft skills</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="355.122">Internal event loop / exception monitor for Node.js apps. &#x2028;</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="63" y="364.122">(Sentry like, TypeScript)</tspan></text>
+</g>
+</g>
+<g id="TextRow_6">
+<g id="misc/dot_04_l_8">
+<path id="Icon_9" d="M53 384.045C51.8494 384.045 50.9167 383.112 50.9167 381.962C50.9167 380.811 51.8494 379.878 53 379.878C54.1506 379.878 55.0833 380.811 55.0833 381.962C55.0833 383.112 54.1506 384.045 53 384.045Z" fill="#95AAFB"/>
+</g>
+<g id="Text_7">
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="379.86">UDP-based game server for real-time gameplay handling ~100,000 packets/sec. &#x2028;</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="63" y="389.86">(TypeScript, Redis, JWT tokens, Node.js workers, data compression, microservices)</tspan></text>
+</g>
+</g>
+<g id="TextRow_7">
+<g id="misc/dot_04_l_9">
+<path id="Icon_10" d="M53 409.783C51.8494 409.783 50.9167 408.851 50.9167 407.7C50.9167 406.549 51.8494 405.617 53 405.617C54.1506 405.617 55.0833 406.549 55.0833 407.7C55.0833 408.851 54.1506 409.783 53 409.783Z" fill="#95AAFB"/>
+</g>
+<g id="Text_8">
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="405.599">User control panel.&#x2028;</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="7.5" letter-spacing="0.01em"><tspan x="63" y="415.599">(TypeScript, React.js, Vite, TailwindCSS, Prisma/Apollo/GraphQL, MySQL, AWS SDK)</tspan></text>
+</g>
+</g>
+<g id="TextRow_8">
+<g id="misc/dot_04_l_10">
+<path id="Icon_11" d="M53 447.522C51.8494 447.522 50.9167 446.589 50.9167 445.438C50.9167 444.288 51.8494 443.355 53 443.355C54.1506 443.355 55.0833 444.288 55.0833 445.438C55.0833 446.589 54.1506 447.522 53 447.522Z" fill="#95AAFB"/>
+</g>
+<g id="Text_9">
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="92.2535" y="432.121">&#x2028;</tspan><tspan x="63" y="443.121">Linux knowledge, basic infrastructure planning, build pipelines using GitHub Actions and Cloudflare Pages, backup management, &#x2028;</tspan><tspan x="63" y="454.121">Docker containerization, reverse proxies, firewall configuration and DDoS mitigation, perfomance tweaking of HTTP / MySQL </tspan><tspan x="63" y="465.121">servers.</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" font-weight="500" letter-spacing="0.02em"><tspan x="63" y="432.121">DevOps</tspan></text>
+</g>
+</g>
+<g id="TextRow_9">
+<g id="misc/dot_04_l_11">
+<path id="Icon_12" d="M53 486.26C51.8494 486.26 50.9167 485.328 50.9167 484.177C50.9167 483.026 51.8494 482.094 53 482.094C54.1506 482.094 55.0833 483.026 55.0833 484.177C55.0833 485.328 54.1506 486.26 53 486.26Z" fill="#95AAFB"/>
+</g>
+<g id="Text_10">
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="94.1164" y="481.859">&#x2028;</tspan><tspan x="63" y="492.859">~300,000 PLN total net income by F2P monetization.&#13;</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" font-weight="500" letter-spacing="0.02em"><tspan x="63" y="481.859">Business</tspan></text>
+</g>
+</g>
+<g id="TextRow_10">
+<g id="misc/dot_04_l_12">
+<path id="Icon_13" d="M53 513.999C51.8494 513.999 50.9167 513.066 50.9167 511.915C50.9167 510.765 51.8494 509.832 53 509.832C54.1506 509.832 55.0833 510.765 55.0833 511.915C55.0833 513.066 54.1506 513.999 53 513.999Z" fill="#95AAFB"/>
+</g>
+<g id="Text_11">
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="97.8732" y="509.598">&#x2028;</tspan><tspan x="63" y="520.598">Entrepreneurial &#38; tax law knowledge, team management, conflict resolutions, waterfall development process.</tspan></text>
+<text fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" font-weight="500" letter-spacing="0.02em"><tspan x="63" y="509.598">Soft skills</tspan></text>
 </g>
 </g>
 </g>
@@ -121,72 +164,60 @@
 <g id="Step icon wrap_3">
 <g id="_Step icon base_3" filter="url(#filter3_ddi_378_11988)">
 <g clip-path="url(#clip5_378_11988)">
-<rect x="24" y="416.2" width="16" height="16" rx="8" fill="white"/>
-<rect id="Background_3" x="24" y="416.2" width="16" height="16" fill="white"/>
-<g id="misc/dot_04_l_8">
-<path id="Icon_9" d="M32 426.283C30.8494 426.283 29.9167 425.351 29.9167 424.2C29.9167 423.049 30.8494 422.117 32 422.117C33.1506 422.117 34.0833 423.049 34.0833 424.2C34.0833 425.351 33.1506 426.283 32 426.283Z" fill="#9251F7"/>
+<rect x="24" y="556.892" width="16" height="16" rx="8" fill="white"/>
+<rect id="Background_3" x="24" y="556.892" width="16" height="16" fill="white"/>
+<g id="misc/dot_04_l_13">
+<path id="Icon_14" d="M32 566.976C30.8494 566.976 29.9167 566.043 29.9167 564.892C29.9167 563.742 30.8494 562.809 32 562.809C33.1506 562.809 34.0833 563.742 34.0833 564.892C34.0833 566.043 33.1506 566.976 32 566.976Z" fill="#9251F7"/>
 </g>
 </g>
 </g>
 <g id="Divider_3" clip-path="url(#clip6_378_11988)">
-<rect id="divider_3" x="31.875" y="432.325" width="0.25" height="181.473" stroke="#E2E6EE" stroke-width="0.25" stroke-linejoin="round"/>
+<rect id="divider_3" x="31.875" y="573.017" width="0.25" height="114.996" stroke="#E2E6EE" stroke-width="0.25" stroke-linejoin="round"/>
 </g>
 </g>
 <g id="Projects section">
-<text id="Projects_2" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="56.4003" y="428.64">Projects</tspan></text>
+<text id="Projects_2" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="48.4003" y="569.332">Projects</tspan></text>
 <g id="Content_5">
 <g id="Project">
 <g id="Company and role_2">
 <g id="Logo icon_2" filter="url(#filter4_d_378_11988)">
 <g clip-path="url(#clip7_378_11988)">
-<path id="Vector_2" d="M62.0858 477.173C60.6585 477.11 59.8831 476.883 59.3674 476.69C58.6841 476.435 58.1969 476.131 57.6841 475.641C57.1712 475.15 56.8538 474.683 56.5892 474.028C56.388 473.534 56.1505 472.791 56.0856 471.423C56.0143 469.944 56 469.501 56 465.755C56 462.009 56.0157 461.566 56.0849 460.086C56.1498 458.718 56.3887 457.977 56.5885 457.481C56.8545 456.826 57.1719 456.359 57.6834 455.867C58.1955 455.376 58.6827 455.071 59.3667 454.818C59.8824 454.625 60.6578 454.397 62.0851 454.335C63.6286 454.268 64.0923 454.254 67.9996 454.254C71.9085 454.254 72.3707 454.269 73.9149 454.335C75.3422 454.397 76.1161 454.626 76.6333 454.818C77.3166 455.071 77.8038 455.376 78.3166 455.867C78.8295 456.358 79.1455 456.825 79.4115 457.48C79.6127 457.975 79.8502 458.718 79.9151 460.085C79.9857 461.565 80 462.008 80 465.754C80 469.499 79.9857 469.943 79.9151 471.423C79.8502 472.791 79.6113 473.534 79.4115 474.028C79.1455 474.683 78.8288 475.15 78.3166 475.641C77.8045 476.131 77.3166 476.435 76.6333 476.69C76.1176 476.883 75.3422 477.11 73.9149 477.173C72.3721 477.24 71.9085 477.254 67.9996 477.254C64.0923 477.254 63.6286 477.241 62.0858 477.173Z" fill="white"/>
-<rect id="UE_Logo_icon-only_black 1" x="59" y="456.923" width="18" height="18" fill="url(#pattern1)"/>
+<path id="Vector_2" d="M54.0858 617.865C52.6585 617.803 51.8831 617.575 51.3674 617.382C50.6841 617.127 50.1969 616.824 49.6841 616.333C49.1712 615.842 48.8538 615.375 48.5892 614.72C48.388 614.226 48.1505 613.483 48.0856 612.115C48.0143 610.637 48 610.193 48 606.447C48 602.701 48.0157 602.258 48.0849 600.778C48.1498 599.411 48.3887 598.669 48.5885 598.173C48.8545 597.518 49.1719 597.052 49.6834 596.559C50.1955 596.069 50.6827 595.764 51.3667 595.51C51.8824 595.317 52.6578 595.09 54.0851 595.028C55.6286 594.96 56.0923 594.946 59.9996 594.946C63.9085 594.946 64.3707 594.961 65.9149 595.028C67.3422 595.09 68.1161 595.319 68.6333 595.51C69.3166 595.764 69.8038 596.069 70.3166 596.559C70.8295 597.05 71.1455 597.518 71.4115 598.173C71.6127 598.667 71.8502 599.41 71.9151 600.778C71.9857 602.258 72 602.701 72 606.447C72 610.191 71.9857 610.635 71.9151 612.115C71.8502 613.483 71.6113 614.226 71.4115 614.72C71.1455 615.375 70.8288 615.842 70.3166 616.333C69.8045 616.824 69.3166 617.127 68.6333 617.382C68.1176 617.575 67.3422 617.803 65.9149 617.865C64.3721 617.933 63.9085 617.946 59.9996 617.946C56.0923 617.946 55.6286 617.933 54.0858 617.865Z" fill="white"/>
+<rect id="UE_Logo_icon-only_black 1" x="51" y="597.615" width="18" height="18" fill="url(#pattern1)"/>
 </g>
 </g>
 <g id="Data">
-<g id="Text_7">
-<text id="Title_4" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="89.4769" y="464.194">Procedural cartoon race</tspan></text>
-<text id="GithubRacetrack" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="89.4769" y="477.084">https://github.com/atkki/UE5_Racetrack</tspan></text>
+<g id="Text_12">
+<text id="Title_4" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="12" font-weight="500" letter-spacing="0.01em"><tspan x="81.4769" y="604.886">Procedural cartoon race</tspan></text>
+<text id="GithubRacetrack" fill="#79819A" xml:space="preserve" style="white-space: pre" font-family="Outfit" font-size="9" letter-spacing="0.02em"><tspan x="81.4769" y="617.776">https://github.com/atkki/UE5_Racetrack</tspan></text>
 </g>
 <g id="RacetrackPreview">
-<rect x="497.5" y="454.754" width="66" height="22" rx="7.5" fill="white"/>
+<rect x="497.5" y="595.446" width="66" height="22" rx="7.5" fill="white"/>
 <g id="Content_6">
 <g id="Icon / small">
 <g id="Perm media">
-<path id="Vector_3" d="M505.333 463.054H504.5V465.304H504.504L504.5 469.354C504.5 469.849 504.875 470.254 505.333 470.254H512.833V469.354H505.333V463.054ZM507.417 467.104H513.25L511.792 465.079L510.75 466.433L509.292 464.404L507.417 467.104ZM513.667 462.154H510.333L509.5 461.254H507C506.542 461.254 506.171 461.659 506.171 462.154L506.167 467.554C506.167 468.049 506.542 468.454 507 468.454H513.667C514.125 468.454 514.5 468.049 514.5 467.554V463.054C514.5 462.559 514.125 462.154 513.667 462.154ZM513.667 467.554H507V462.154H509.154L509.742 462.788L509.987 463.054H513.667V467.554Z" fill="#9251F7"/>
+<path id="Vector_3" d="M505.333 603.746H504.5V605.996H504.504L504.5 610.046C504.5 610.541 504.875 610.946 505.333 610.946H512.833V610.046H505.333V603.746ZM507.417 607.796H513.25L511.792 605.771L510.75 607.126L509.292 605.096L507.417 607.796ZM513.667 602.846H510.333L509.5 601.946H507C506.542 601.946 506.171 602.351 506.171 602.846L506.167 608.246C506.167 608.741 506.542 609.146 507 609.146H513.667C514.125 609.146 514.5 608.741 514.5 608.246V603.746C514.5 603.251 514.125 602.846 513.667 602.846ZM513.667 608.246H507V602.846H509.154L509.742 603.481L509.987 603.746H513.667V608.246Z" fill="#9251F7"/>
 </g>
 </g>
-<text id="PREVIEW" fill="#9251F7" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="519.875" y="468.652">PREVIEW</tspan></text>
+<text id="PREVIEW" fill="#9251F7" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" font-weight="500" letter-spacing="0em"><tspan x="519.875" y="609.345">PREVIEW</tspan></text>
 </g>
-<rect x="497.5" y="454.754" width="66" height="22" rx="7.5" stroke="#9251F7"/>
-</g>
-</g>
+<rect x="497.5" y="595.446" width="66" height="22" rx="7.5" stroke="#9251F7"/>
 </g>
 </g>
-<text id="Description_2" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="56" y="492.891">Based on Unreal Engine 5, using C++ and Blueprints.</tspan></text>
-<g id="TextRow_6">
-<g id="misc/dot_04_l_9">
-<path id="Icon_10" d="M61 507.814C59.8494 507.814 58.9167 506.881 58.9167 505.731C58.9167 504.58 59.8494 503.647 61 503.647C62.1506 503.647 63.0834 504.58 63.0834 505.731C63.0834 506.881 62.1506 507.814 61 507.814Z" fill="#95AAFB"/>
 </g>
-<text id="Text_8" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="71" y="508.629">Procedurally generated race track with environment, customizable through Unreal editor&#13;</tspan></text>
 </g>
-<g id="TextRow_7">
-<g id="misc/dot_04_l_10">
-<path id="Icon_11" d="M61 523.553C59.8494 523.553 58.9167 522.62 58.9167 521.469C58.9167 520.319 59.8494 519.386 61 519.386C62.1506 519.386 63.0834 520.319 63.0834 521.469C63.0834 522.62 62.1506 523.553 61 523.553Z" fill="#95AAFB"/>
+<text id="Description_2" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="48" y="633.583">Based on Unreal Engine 5, using C++ and Blueprints.</tspan></text>
+<g id="TextRow_11">
+<g id="misc/dot_04_l_14">
+<path id="Icon_15" d="M53 648.506C51.8494 648.506 50.9167 647.574 50.9167 646.423C50.9167 645.273 51.8494 644.34 53 644.34C54.1506 644.34 55.0833 645.273 55.0833 646.423C55.0833 647.574 54.1506 648.506 53 648.506Z" fill="#95AAFB"/>
 </g>
-<text id="Text_9" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="71" y="524.368">Source code only due to use of copyrighted assets</tspan></text>
+<text id="Text_13" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="649.322">Procedurally generated race track with environment, customizable through Unreal editor. Prototype of &#x201c;endless run&#x201d; game.</tspan></text>
 </g>
-<g id="TextRow_8">
-<g id="misc/dot_04_l_11">
-<path id="Icon_12" d="M61 544.791C59.8494 544.791 58.9167 543.858 58.9167 542.708C58.9167 541.557 59.8494 540.624 61 540.624C62.1506 540.624 63.0834 541.557 63.0834 542.708C63.0834 543.858 62.1506 544.791 61 544.791Z" fill="#95AAFB"/>
+<g id="TextRow_12">
+<g id="misc/dot_04_l_15">
+<path id="Icon_16" d="M53 669.745C51.8494 669.745 50.9167 668.812 50.9167 667.662C50.9167 666.511 51.8494 665.578 53 665.578C54.1506 665.578 55.0833 666.511 55.0833 667.662C55.0833 668.812 54.1506 669.745 53 669.745Z" fill="#95AAFB"/>
 </g>
-<text id="Text_10" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="71" y="540.106">Unreal Engine features learned from project: mixing C++ with Blueprints, generating configurable game content by editor, </tspan><tspan x="71" y="551.106">vehicle art setup with physics tweaking, sound cues, vector math, instanced meshes, LOD setup</tspan></text>
-</g>
-<g id="TextRow_9">
-<g id="misc/dot_04_l_12">
-<path id="Icon_13" d="M61 571.53C59.8494 571.53 58.9167 570.597 58.9167 569.446C58.9167 568.296 59.8494 567.363 61 567.363C62.1506 567.363 63.0834 568.296 63.0834 569.446C63.0834 570.597 62.1506 571.53 61 571.53Z" fill="#95AAFB"/>
-</g>
-<text id="Text_11" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="71" y="566.845">C++ features used in project: type aliases, polymorphism, casting, smart pointers, array and map containers, inline functions, &#x2028;</tspan><tspan x="71" y="577.845">initializer lists</tspan></text>
+<text id="Text_14" fill="#2E2E48" xml:space="preserve" style="white-space: pre" font-family="DM Sans" font-size="8.5" letter-spacing="0em"><tspan x="63" y="665.06">C++ features used in project: type aliases, polymorphism, casting, smart pointers, array and map containers, inline functions, &#x2028;</tspan><tspan x="63" y="676.06">initializer lists</tspan></text>
 </g>
 </g>
 </g>
@@ -251,7 +282,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
 <feBlend mode="normal" in2="shape" result="effect3_innerShadow_378_11988"/>
 </filter>
-<filter id="filter2_d_378_11988" x="48.8923" y="181.054" width="38.2154" height="37.2154" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_d_378_11988" x="40.8923" y="181.054" width="38.2154" height="37.2154" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="2.36923"/>
@@ -263,7 +294,7 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_378_11988" transform="translate(0 -0.0159751) scale(0.000414938)"/>
 </pattern>
-<filter id="filter3_ddi_378_11988" x="0" y="398.2" width="64" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter3_ddi_378_11988" x="0" y="538.892" width="64" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="6"/>
@@ -285,7 +316,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
 <feBlend mode="normal" in2="shape" result="effect3_innerShadow_378_11988"/>
 </filter>
-<filter id="filter4_d_378_11988" x="48.8923" y="449.515" width="38.2154" height="37.2154" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter4_d_378_11988" x="40.8923" y="590.208" width="38.2154" height="37.2154" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="2.36923"/>
@@ -307,19 +338,19 @@
 <rect x="24" y="131" width="16" height="16" rx="8" fill="white"/>
 </clipPath>
 <clipPath id="clip3_378_11988">
-<rect width="0.5" height="269.2" fill="white" transform="translate(31.75 147)"/>
+<rect width="0.5" height="409.892" fill="white" transform="translate(31.75 147)"/>
 </clipPath>
 <clipPath id="clip4_378_11988">
-<rect x="56" y="185.792" width="24" height="23" rx="5.92308" fill="white"/>
+<rect x="48" y="185.792" width="24" height="23" rx="5.92308" fill="white"/>
 </clipPath>
 <clipPath id="clip5_378_11988">
-<rect x="24" y="416.2" width="16" height="16" rx="8" fill="white"/>
+<rect x="24" y="556.892" width="16" height="16" rx="8" fill="white"/>
 </clipPath>
 <clipPath id="clip6_378_11988">
-<rect width="0.5" height="181.723" fill="white" transform="translate(31.75 432.2)"/>
+<rect width="0.5" height="115.246" fill="white" transform="translate(31.75 572.892)"/>
 </clipPath>
 <clipPath id="clip7_378_11988">
-<rect x="56" y="454.254" width="24" height="23" rx="5.92308" fill="white"/>
+<rect x="48" y="594.946" width="24" height="23" rx="5.92308" fill="white"/>
 </clipPath>
 <clipPath id="clip8_378_11988">
 <rect width="39" height="10" fill="white" transform="translate(274.5 753.5)"/>
